@@ -1,0 +1,2890 @@
+{
+ "stationen": [
+  {
+   "id": "sowjetisches-ehrenmal-im-tiergarten",
+   "nr": 3,
+   "titel": "Sowjetisches Ehrenmal im Tiergarten",
+   "bezirk": "Regierungsviertel",
+   "farbe": "#1f4e79",
+   "ort": "West",
+   "typ": "Außen",
+   "epoche": "1945",
+   "lat": 52.515,
+   "lng": 13.3708,
+   "ueberblick": "Ehrenmal der Roten Armee (1945) an der Straße des 17. Juni, gebaut für über 2.000 gefallene sowjetische Soldaten der Schlacht um Berlin. Zwei Panzer (T-34) und Geschütze flankieren es. Es lag im Westteil der Stadt und wurde auch zu Teilungszeiten von sowjetischen Ehrenwachen bewacht.",
+   "oeff": "Frei zugänglich, jederzeit",
+   "preis": "Frei",
+   "station": "S/U Brandenburger Tor",
+   "fussweg": "ca. 10 Min. zu Fuß",
+   "linien": [
+    "S1",
+    "S2",
+    "S25",
+    "S26",
+    "U55"
+   ],
+   "wissen": [
+    "Heute politisch umstritten (Ukraine-Krieg).",
+    "Liegt im Tiergarten, ca. 10 Min. von Reichstag und Brandenburger Tor.",
+    "Dämmerung ab ca. 17 Uhr – bei Tageslicht besuchen."
+   ],
+   "naehe": "Reichstag · Brandenburger Tor · Holocaust-Mahnmal",
+   "wetter": "☀ Draußen – besser bei Trockenheit",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Sowjetisches Ehrenmal",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Das Ehrenmal wurde nur wenige Monate nach Kriegsende gebaut und am 11. November 1945 eingeweiht. Es erinnert an die sowjetischen Soldaten, die in der Schlacht um Berlin im Frühjahr 1945 fielen – rund 80.000 Rotarmisten starben allein in dieser letzten Großschlacht. Etwa 2.000 bis 2.500 von ihnen sind hier bestattet.",
+    "Das Besondere: Es steht mitten im Tiergarten, also im britischen Sektor und damit später in West-Berlin – wurde aber von sowjetischen Soldaten bewacht. Die Wache wurde während des Kalten Krieges unter britischem Schutz abgelöst. Genau das macht den Ort zu einem guten Beispiel für das Berlin der Besatzungszeit: Vier Mächte, eine geteilte Stadt, Symbole mitten im Gebiet der anderen.",
+    "Die beiden T-34-Panzer und die Haubitzen gehören zur Anlage. Nach einer verbreiteten, aber nicht sicher belegten Überlieferung wurde für den Bau auch Material aus der zerstörten Reichskanzlei verwendet.",
+    "Heute ist der Ort politisch aufgeladen: Seit dem russischen Angriff auf die Ukraine 2022 wird diskutiert, wie man hier erinnert. Die Anlage steht unter dem Schutz völkerrechtlicher Verträge (Kriegsgräber) und bleibt deshalb erhalten.",
+    "Gesprächsanlass für unterwegs: Darf ein Land Denkmäler für Soldaten stehen lassen, deren Staat heute Krieg führt? Und was sagt es über Erinnerung, dass dasselbe Denkmal 1945 und 2022 völlig unterschiedlich gelesen wird?"
+   ],
+   "links": [
+    {
+     "k": "l",
+     "t": "Wikipedia: Sowjetisches Ehrenmal (Tiergarten)",
+     "u": "https://de.wikipedia.org/w/index.php?search=Sowjetisches+Ehrenmal+%28Tiergarten%29&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "reichstag",
+   "nr": 4,
+   "titel": "Reichstag",
+   "bezirk": "Regierungsviertel",
+   "farbe": "#1f4e79",
+   "ort": "-",
+   "typ": "Außen (Dachterrasse mit Anmeldung)",
+   "epoche": "1894 – heute",
+   "lat": 52.5186,
+   "lng": 13.3762,
+   "ueberblick": "Sitz des Deutschen Bundestags. 1933 Reichstagsbrand, 1945 Sowjetflagge auf dem Dach, 1990 Feier der Wiedervereinigung, seit 1999 wieder Parlament. Die Glaskuppel (Norman Foster) macht Politik „von oben“ einsehbar.",
+   "oeff": "Dachterrasse nur mit Anmeldung (Zeitfenster); Kuppel 19.–30.10. zu",
+   "preis": "Frei",
+   "station": "U Bundestag",
+   "fussweg": "ca. 5 Min. zu Fuß",
+   "linien": [
+    "U55"
+   ],
+   "wissen": [
+    "Kuppel 19.–30.10.2026 gesperrt (bundestag.de, Stand 04.10.2026), Dachterrasse bleibt offen; Kuppel wieder ab 31.10.",
+    "Anmeldung kostenlos online (visite.bundestag.de), per Fax oder Post; Angaben: Name, Geburtsdatum.",
+    "Spontan: Service-Station am Platz der Republik, Karten bis 2 Std. vor Einlass (Sommer 8–20, Wochenende 10–18).",
+    "Ab 16 Jahren Lichtbildausweis; Sicherheitskontrolle, kein großes Gepäck."
+   ],
+   "naehe": "Brandenburger Tor · Sowjetisches Ehrenmal · Holocaust-Mahnmal",
+   "wetter": "☀ Dachterrasse im Freien – wetterabhängig",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Reichstag",
+   "sched": [
+    {
+     "t": "Anmeldung",
+     "s": "w"
+    },
+    {
+     "t": "Anmeldung",
+     "s": "w"
+    },
+    {
+     "t": "Anmeldung",
+     "s": "w"
+    },
+    {
+     "t": "Anmeldung",
+     "s": "w"
+    },
+    {
+     "t": "Anmeldung",
+     "s": "w"
+    },
+    {
+     "t": "Anmeldung",
+     "s": "w"
+    },
+    {
+     "t": "Anmeldung",
+     "s": "w"
+    }
+   ],
+   "res": {
+    "lvl": "m",
+    "txt": "Dachterrasse nur mit Anmeldung (visite.bundestag.de) oder Spontan-Slot am Platz der Republik"
+   },
+   "frei": true,
+   "dd": [
+    "Der Reichstag wurde 1894 eröffnet, damals das Parlamentsgebäude des Kaiserreichs. Von hier rief Philipp Scheidemann am 9. November 1918 die Republik aus. Auf der Giebelinschrift steht bis heute „Dem Deutschen Volke“ – 1916 angebracht, mitten im Ersten Weltkrieg.",
+    "Der Reichstagsbrand vom 27. Februar 1933 gehört zu den Schlüsselmomenten der NS-Machtübernahme: Die Nationalsozialisten nutzten ihn, um per Notverordnung Grundrechte außer Kraft zu setzen. Wer das Feuer wirklich gelegt hat, ist unter Historikern bis heute nicht ganz geklärt; sicher ist, dass die Nazis es politisch ausnutzten.",
+    "Im Mai 1945 hissten sowjetische Soldaten auf dem Gebäude die rote Fahne – ein berühmtes Foto. Die Ruine stand danach lange im Schatten der Mauer, die nur wenige Meter dahinter verlief. Die Inschriften sowjetischer Soldaten (Graffiti von 1945) sind im Inneren teilweise erhalten.",
+    "Der Umbau durch Norman Foster (1995–1999) setzte die gläserne Kuppel auf. Seit 1999 tagt hier der Bundestag. Das Besondere: Besucher gehen buchstäblich über den Köpfen der Abgeordneten – Symbol für Transparenz.",
+    "Praktisch: Für die Dachterrasse ist eine Anmeldung nötig, Ausweis mitbringen. Die Kuppel ist im Oktober 2026 zeitweise gesperrt – vorher auf der Bundestagsseite prüfen."
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Bundestag: Besuch & Anmeldung",
+     "u": "https://www.bundestag.de/besuche"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Reichstagsgebäude",
+     "u": "https://de.wikipedia.org/w/index.php?search=Reichstagsgeb%C3%A4ude&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Reichstagsbrand",
+     "u": "https://de.wikipedia.org/w/index.php?search=Reichstagsbrand&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "brandenburger-tor-holocaust-mahnmal",
+   "nr": 5,
+   "titel": "Brandenburger Tor & Holocaust-Mahnmal",
+   "bezirk": "Regierungsviertel",
+   "farbe": "#1f4e79",
+   "ort": "Grenze",
+   "typ": "Außen + Innen (Ort der Information)",
+   "epoche": "1791 / 1945 / 1989",
+   "lat": 52.5163,
+   "lng": 13.3777,
+   "ueberblick": "Das Tor (1791) lag bis 1989 im Grenzgebiet und war unzugänglich. Ca. 200 m südlich: das Denkmal für die ermordeten Juden Europas (2005, Peter Eisenman) mit 2.711 Stelen; darunter der „Ort der Information“ mit Schicksalen einzelner Familien.",
+   "oeff": "Mahnmal immer; Ort der Information Di–So ca. 10–18/19 Uhr, Mo zu (vor Ort prüfen)",
+   "preis": "Frei",
+   "station": "S/U Brandenburger Tor",
+   "fussweg": "direkt",
+   "linien": [
+    "S1",
+    "S2",
+    "S25",
+    "S26",
+    "U55"
+   ],
+   "wissen": [
+    "Stelen nicht beklettern; der Ort der Information ist sehr bewegend.",
+    "Das Tor ist rund um die Uhr zugänglich."
+   ],
+   "naehe": "Reichstag · Unter den Linden · Potsdamer Platz",
+   "wetter": "☀/☂ Mahnmal draußen · Ort der Information innen",
+   "wetterkind": "gemischt",
+   "vermerk": "",
+   "kurz": "Brandenburger Tor & Holocaust-Mahnmal",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "Info zu",
+     "s": "w"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Das Tor entstand 1788–1791 als Friedenstor des preußischen Königs Friedrich Wilhelm II. Die Quadriga oben ließ Napoleon 1806 nach Paris schaffen; nach seiner Niederlage kam sie 1814 zurück – seither trägt die Siegesgöttin das Eiserne Kreuz.",
+    "Im 20. Jahrhundert war das Tor mal Kulisse, mal Symbol: 1933 marschierten SA-Fackelzüge hindurch, nach 1945 stand es ausgebrannt im Niemandsland. Von 1961 bis 1989 lag es direkt hinter der Mauer, unerreichbar für beide Seiten. Am 22. Dezember 1989 wurde es feierlich geöffnet – kaum ein Bild steht so für das Ende der Teilung.",
+    "Wenige Meter südlich liegt das Denkmal für die ermordeten Juden Europas (2005 eröffnet, Architekt Peter Eisenman): 2.711 Betonstelen auf einem welligen Feld. Der Ort der Information darunter dokumentiert Biografien und Schicksale; er ist montags geschlossen. Das Denkmal selbst ist jederzeit begehbar.",
+    "Tipp: Erst die Stelen durchlaufen, dann den Ort der Information – dort wird aus der Abstraktion konkrete Geschichte (Namen, Briefe, Fotos). Bitte respektvoll bewegen: Es ist ein Friedhofsersatz, kein Spielplatz.",
+    "Frage für die Jungs: Warum steht dieses Denkmal ausgerechnet hier, zwischen Regierungsviertel und Hotels – und was soll das mit der Stadt machen?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Stiftung Denkmal: Holocaust-Mahnmal",
+     "u": "https://www.stiftung-denkmal.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Brandenburger Tor",
+     "u": "https://de.wikipedia.org/w/index.php?search=Brandenburger+Tor&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Denkmal für die ermordeten Juden Europas",
+     "u": "https://de.wikipedia.org/w/index.php?search=Denkmal+f%C3%BCr+die+ermordeten+Juden+Europas&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "gedenkstaette-deutscher-widerstand-bendl",
+   "nr": 6,
+   "titel": "Gedenkstätte Deutscher Widerstand (Bendlerblock)",
+   "bezirk": "Regierungsviertel",
+   "farbe": "#1f4e79",
+   "ort": "West",
+   "typ": "Innen + Hof",
+   "epoche": "NS-Zeit / 20. Juli 1944",
+   "lat": 52.5057,
+   "lng": 13.3629,
+   "ueberblick": "Im damaligen Oberkommando des Heeres scheiterte der Umsturz nach dem Hitler-Attentat vom 20. Juli 1944. Stauffenberg, Olbricht, Mertz von Quirnheim und von Haeften wurden in der Nacht im Hof erschossen. Ausstellung zum Widerstand gegen den Nationalsozialismus.",
+   "oeff": "Mo–Fr 9–18, Sa/So/Feiertage 10–18 (zu: 24.–26.12., 31.12., 1.1.)",
+   "preis": "Frei",
+   "station": "Bus M29 Gedenkstätte Dt. Widerstand",
+   "fussweg": "ca. 3 Min. zu Fuß",
+   "linien": [
+    "M29"
+   ],
+   "wissen": [
+    "Alternativ U1 Kurfürstenstraße (ca. 10 Min.) oder S/U Potsdamer Platz (ca. 15 Min.); weitere Busse: M48, M85.",
+    "Adresse: Stauffenbergstraße 13; Hof mit Kopfsteinpflaster.",
+    "Audioguide in sieben Sprachen.",
+    "Dasselbe Gelände wie das Ehrenmal der Bundeswehr (Eingang dort: Hildebrandstraße)."
+   ],
+   "naehe": "Ehrenmal der Bundeswehr · Potsdamer Platz · Topographie des Terrors",
+   "wetter": "☂ Innen – gut bei Regen",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "Gedenkst. Dt. Widerstand (Bendlerblock)",
+   "sched": [
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Im Bendlerblock, dem früheren Sitz des Allgemeinen Heeresamts, wurde in der Nacht zum 21. Juli 1944 Claus Schenk Graf von Stauffenberg erschossen – zusammen mit Friedrich Olbricht, Albrecht Mertz von Quirnheim und Werner von Haeften. Sie hatten am 20. Juli das Attentat auf Hitler und den Staatsstreich „Walküre“ versucht.",
+    "Die Dauerausstellung „Widerstand gegen den Nationalsozialismus“ ist bewusst breiter angelegt als der 20. Juli: Sie zeigt Arbeiterwiderstand, Kirchen, Jugendliche, Jüdinnen und Juden, Einzeltäter wie Georg Elser, Rote Kapelle, Weiße Rose. Man sieht, wie unterschiedlich und wie riskant Widerstand war.",
+    "Im Hof erinnert eine Bronzefigur eines gefesselten jungen Mannes (1953) an die Erschossenen, an der Stelle der Erschießung. Der Eintritt ist frei.",
+    "Das Gebäude zeigt außerdem, wie eng Militär und Regime verflochten waren – der Ort war zugleich Schaltstelle des Krieges.",
+    "Gesprächsanlass: Wann ist Widerstand „erlaubt“, wann Pflicht? Und: Viele der Verschwörer waren zuvor Teil des Systems. Was heißt das für unser Urteil?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Gedenkstätte Deutscher Widerstand",
+     "u": "https://www.gdw-berlin.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Attentat vom 20. Juli 1944",
+     "u": "https://de.wikipedia.org/w/index.php?search=Attentat+vom+20.+Juli+1944&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "ehrenmal-der-bundeswehr",
+   "nr": 7,
+   "titel": "Ehrenmal der Bundeswehr",
+   "bezirk": "Regierungsviertel",
+   "farbe": "#1f4e79",
+   "ort": "-",
+   "typ": "Außen + Totenhalle",
+   "epoche": "Bundeswehr seit 1955",
+   "lat": 52.5052,
+   "lng": 13.364,
+   "ueberblick": "Das Ehrenmal (2009) erinnert an alle Soldaten und zivilen Beschäftigten der Bundeswehr, die im Dienst ums Leben kamen. Ein bronzeverkleideter Betonquader (41 × 8 × 10 m) mit „Raum der Stille“, in dem die Namen der Toten projiziert werden. Auf dem Gelände des Verteidigungsministeriums.",
+   "oeff": "Mo–Mi 9–18, Do 9–20, Sa/So 10–18; Freitag nicht angegeben (prüfen)",
+   "preis": "Frei",
+   "station": "Bus M29 Gedenkstätte Dt. Widerstand",
+   "fussweg": "ca. 5 Min. zu Fuß",
+   "linien": [
+    "M29"
+   ],
+   "wissen": [
+    "Zugang über Hildebrandstraße 10785 Berlin (BMVg-Gelände).",
+    "Ausweis mitnehmen; Sicherheitskontrolle möglich.",
+    "Gruppenführungen nach Terminabsprache: 030 1824-22276.",
+    "Alternativ U1 Kurfürstenstraße (ca. 10 Min.)."
+   ],
+   "naehe": "Gedenkstätte Deutscher Widerstand · Potsdamer Platz",
+   "wetter": "☀ Überwiegend draußen",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Ehrenmal der Bundeswehr",
+   "sched": [
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "9–20",
+     "s": "o"
+    },
+    {
+     "t": "prüfen",
+     "s": "w"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Das Ehrenmal wurde 2009 eingeweiht und liegt auf dem Gelände des Bendlerblocks, dem Dienstsitz des Verteidigungsministeriums. Es erinnert an alle Soldatinnen, Soldaten und zivilen Mitarbeiter der Bundeswehr, die seit 1955 im Dienst ums Leben gekommen sind – im Einsatz, bei Unfällen oder durch Anschläge.",
+    "Der Bau (Architekt Andreas Meck) ist ein rechteckiger Bronzekubus mit Perforation. Im Inneren, der Totenhalle, leuchten die Namen der Toten als Lichtpunkte an der Wand – nach Bedarf werden neue Namen aufgenommen. Die Anlage ist bewusst nüchtern und leise.",
+    "Sinnvoll als Gegenstück zum Widerstandsmuseum nebenan: Dort die Frage nach Gewissen unter Diktatur, hier die Frage, wofür eine Demokratie ihre Armee in den Tod schicken darf. Die Bundeswehr ist eine „Parlamentsarmee“, jeder Auslandseinsatz braucht ein Bundestagsmandat.",
+    "Praktisch: Gelände mit Personalausweis betreten, Sicherheitskontrolle, Eingang an der Hildebrandstraße. Öffnungszeiten ändern sich gelegentlich (Freitag unklar) – vorher kurz prüfen."
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Bundeswehr: Ehrenmal",
+     "u": "https://www.bundeswehr.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Ehrenmal der Bundeswehr",
+     "u": "https://de.wikipedia.org/w/index.php?search=Ehrenmal+der+Bundeswehr&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "gedenkstaette-ploetzensee",
+   "nr": 8,
+   "titel": "Gedenkstätte Plötzensee",
+   "bezirk": "Regierungsviertel",
+   "farbe": "#1f4e79",
+   "ort": "West",
+   "typ": "Außen + Innen",
+   "epoche": "NS-Zeit / Justiz",
+   "lat": 52.5336,
+   "lng": 13.3125,
+   "ueberblick": "In der Haftanstalt Plötzensee wurden 1933–1945 knapp 3.000 Menschen hingerichtet, darunter viele Widerstandskämpfer des 20. Juli. Der erhaltene Hinrichtungsschuppen ist Gedenkort, dazu kleine Ausstellung zur NS-Justiz.",
+   "oeff": "Mär–Okt tägl. 10–17 (ältere Angabe 9 Uhr – prüfen), Nov–Feb 9–16",
+   "preis": "Frei",
+   "station": "Bus 123 Gedenkstätte Plötzensee",
+   "fussweg": "kurzer Fußweg",
+   "linien": [
+    "123"
+   ],
+   "wissen": [
+    "Linie in der BVG-App prüfen (dein Plan nennt Bus 106). Zubringer: Hbf oder U9 Turmstraße.",
+    "Anfahrt vom Hotel ca. 45 Min.; Adresse Hüttigpfad 16.",
+    "Nüchterner, sehr ernster Ort ohne Gastronomie."
+   ],
+   "naehe": "– (abseits gelegen, eigene Anfahrt)",
+   "wetter": "☂/☀ Hof draußen · Ausstellung kurz drinnen",
+   "wetterkind": "gemischt",
+   "vermerk": "",
+   "kurz": "Gedenkstätte Plötzensee",
+   "sched": [
+    {
+     "t": "10–17",
+     "s": "o"
+    },
+    {
+     "t": "10–17",
+     "s": "o"
+    },
+    {
+     "t": "10–17",
+     "s": "o"
+    },
+    {
+     "t": "10–17",
+     "s": "o"
+    },
+    {
+     "t": "10–17",
+     "s": "o"
+    },
+    {
+     "t": "10–17",
+     "s": "o"
+    },
+    {
+     "t": "10–17",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "In der Haftanstalt Plötzensee richtete das NS-Regime zwischen 1933 und 1945 rund 2.800 Menschen hin – viele davon wegen Widerstands, aber auch wegen „Wehrkraftzersetzung“ oder Kleinstdelikten. Nach dem 20. Juli 1944 wurden hier zahlreiche Verschwörer ermordet; die Hinrichtungen erfolgten durch Fallbeil und Strang.",
+    "Der Hinrichtungsraum ist weitgehend im Originalzustand erhalten, die Haken des Galgens hängen noch. Es ist ein nüchterner, bedrückender Ort – keine Ausstellung mit Effekten, sondern ein stiller Raum und eine Dokumentation zu Todesurteilen.",
+    "Die Gedenkstätte wurde 1952 eingeweiht.",
+    "Hinweis für den Besuch: Der Ort ist emotional fordernd. Nehmt euch vorher kurz Zeit, den Jungs zu erklären, was sie sehen werden, und lasst sie selbst entscheiden, wie weit sie hineingehen wollen. Der Fußweg von der Haltestelle ist etwas länger; die Station liegt ohne Anbindung an andere Ziele.",
+    "Gesprächsanlass: Auch ein „Gerichtsverfahren“ war im NS-Staat ein Werkzeug des Terrors. Was unterscheidet einen Rechtsstaat von einem Staat, der Gesetze nur benutzt?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Gedenkstätte Plötzensee",
+     "u": "https://www.gedenkstaette-ploetzensee.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Justizvollzugsanstalt Plötzensee",
+     "u": "https://de.wikipedia.org/w/index.php?search=Justizvollzugsanstalt+Pl%C3%B6tzensee&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "preussen-light-linden-bebelplatz-gendarm",
+   "nr": 9,
+   "titel": "Preußen light: Linden – Bebelplatz – Gendarmenmarkt – Nikolaiviertel",
+   "bezirk": "Mitte – Kreuzberg",
+   "farbe": "#7a3b69",
+   "ort": "Ost",
+   "typ": "Außen (Spaziergang)",
+   "epoche": "Preußen bis DDR",
+   "lat": 52.516,
+   "lng": 13.3935,
+   "ueberblick": "3-km-Spaziergang: Brandenburger Tor – Unter den Linden (Reiterstandbild Friedrichs II.) – Bebelplatz (Bücherverbrennung 10.5.1933, Mahnmal „Versunkene Bibliothek“) – Neue Wache – Gendarmenmarkt (Konzerthaus, zwei Dome) – Nikolaiviertel (1987 von der DDR nachgebaut) – Rotes Rathaus – Alexanderplatz.",
+   "oeff": "Alles im Freien, jederzeit",
+   "preis": "Frei",
+   "station": "S/U Brandenburger Tor (Start)",
+   "fussweg": "Strecke ca. 3 km",
+   "linien": [
+    "S1",
+    "S2",
+    "S25",
+    "S26",
+    "U55"
+   ],
+   "wissen": [
+    "Unterwegs: U6 Französische Straße, U2 Klosterstraße, S/U Alexanderplatz; Bus 100/300 auf den Linden.",
+    "Am Montag gut machbar, da viele Museen dann geschlossen sind."
+   ],
+   "naehe": "Lutter & Wegner · Gendarmenmarkt · Alexanderplatz",
+   "wetter": "☀ Draußen – bei Regen verkürzen",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Preußen-Spaziergang",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Dieser Spaziergang folgt der Linie von „Preußens Prachtstraße“ zu Preußens Platz: Unter den Linden, Bebelplatz, Gendarmenmarkt und – wenn Energie da ist – das Nikolaiviertel, das älteste Quartier der Stadt.",
+    "Auf den Linden stehen Humboldt-Universität, Staatsoper, Zeughaus (heute Deutsches Historisches Museum) und die Neue Wache – Gedenkstätte für die Opfer von Krieg und Gewaltherrschaft, mit Käthe Kollwitz’ „Pietà“. Der Bebelplatz erinnert an die Bücherverbrennung vom 10. Mai 1933: Im Boden liegt das Denkmal „Bibliothek“ von Micha Ullman, leere Regale unter Glas. Dazu das Heine-Zitat: „Das war ein Vorspiel nur, dort wo man Bücher verbrennt, verbrennt man auch am Ende Menschen.“",
+    "Der Gendarmenmarkt mit Konzerthaus und den beiden Domen (Französischer und Deutscher Dom) zeigt das Bild der preußischen Residenzstadt, weitgehend wiederaufgebaut nach 1945. Das Nikolaiviertel wurde zu DDR-Zeiten zur 750-Jahr-Feier 1987 neu gebaut – also eine „historische“ Altstadt von 1987, kein Original.",
+    "Praxistipp: Alles liegt in Gehweite, Dauer je nach Lust 1,5 bis 3 Stunden. Passt gut als Wetter-B-Plan, wenn das Museumsprogramm zu voll wirkt.",
+    "Frage: Was bleibt, wenn man eine Stadt nach dem Krieg „wie früher“ wieder aufbaut – und was geht dabei verloren?"
+   ],
+   "links": [
+    {
+     "k": "l",
+     "t": "Wikipedia: Unter den Linden",
+     "u": "https://de.wikipedia.org/w/index.php?search=Unter+den+Linden&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Bebelplatz",
+     "u": "https://de.wikipedia.org/w/index.php?search=Bebelplatz&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Nikolaiviertel",
+     "u": "https://de.wikipedia.org/w/index.php?search=Nikolaiviertel&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Neue Wache",
+     "u": "https://de.wikipedia.org/w/index.php?search=Neue+Wache&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "gendarmenmarkt",
+   "nr": 10,
+   "titel": "Gendarmenmarkt",
+   "bezirk": "Mitte – Kreuzberg",
+   "farbe": "#7a3b69",
+   "ort": "Ost",
+   "typ": "Außen (+ Dome)",
+   "epoche": "Barock / Preußen",
+   "lat": 52.5138,
+   "lng": 13.3928,
+   "ueberblick": "Barocker Platz, oft als schönster Berlins bezeichnet: das Konzerthaus in der Mitte, flankiert von Französischem und Deutschem Dom mit je einem Turm. Die Gebäude wurden nach der Kriegszerstörung wiederaufgebaut (Konzerthaus 1984, im Ostteil der Stadt).",
+   "oeff": "Platz jederzeit; Dome/Ausstellungen: Zeiten vor Ort prüfen",
+   "preis": "Platz frei; Dome/Ausstellungen teils kostenpflichtig (prüfen)",
+   "station": "U Stadtmitte",
+   "fussweg": "ca. 3 Min. zu Fuß",
+   "linien": [
+    "U2",
+    "U6"
+   ],
+   "wissen": [
+    "Deutscher Dom: Ausstellung zum Parlamentarismus. Französischer Dom: Hugenottenmuseum mit Aussichtsplattform.",
+    "In der Mitte des Platzes: Schiller-Denkmal.",
+    "Weihnachtsmarkt nur im Advent – im Oktober nicht.",
+    "Gleich am Platz: Lutter & Wegner (Charlottenstraße 56)."
+   ],
+   "naehe": "Lutter & Wegner · Unter den Linden · Checkpoint Charlie",
+   "wetter": "☀ Platz draußen · Dome innen",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Gendarmenmarkt",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": false,
+   "dd": [
+    "Der Platz entstand ab 1688 als Markt der neuen Berliner Vorstadt Friedrichstadt. Seinen Namen hat er vom Kürassierregiment „Gens d’armes“, dessen Ställe hier standen. Unter König Friedrich II. kamen um 1780 die beiden Türme der Kirchen hinzu – der Französische Dom für die Hugenotten, der Deutsche Dom für die lutherische Gemeinde.",
+    "Hugenotten waren protestantische Glaubensflüchtlinge aus Frankreich, die der Große Kurfürst 1685 mit dem Edikt von Potsdam aufnahm. Jahrzehntelang stellten sie bis zu einem Fünftel der Berliner Bevölkerung – ein Beispiel dafür, wie Zuwanderung die Stadt prägte.",
+    "Das Konzerthaus von Karl Friedrich Schinkel (1821) steht in der Mitte. Im Zweiten Weltkrieg wurde der gesamte Platz zerstört; in der DDR wurde er ab den 1970ern aufgebaut („Platz der Akademie“). Heute ist er einer der schönsten Plätze Berlins, besonders abends beleuchtet.",
+    "Praxis: Im Französischen Dom kann man auf den Turm steigen (Aussicht, Eintritt). Auf dem Platz finden zeitweise Weihnachtsmärkte statt; Ende Oktober ist es meist ruhig.",
+    "Wer will, kann an der Mauerstraße oder Jägerstraße weiterlaufen – dort liegen Spuren der DDR-Geschichte direkt neben Luxushotels."
+   ],
+   "links": [
+    {
+     "k": "l",
+     "t": "Wikipedia: Gendarmenmarkt",
+     "u": "https://de.wikipedia.org/w/index.php?search=Gendarmenmarkt&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Hugenotten in Berlin",
+     "u": "https://de.wikipedia.org/w/index.php?search=Hugenotten+in+Berlin&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "lutter-wegner-am-gendarmenmarkt",
+   "nr": 11,
+   "titel": "Lutter & Wegner am Gendarmenmarkt",
+   "bezirk": "Mitte – Kreuzberg",
+   "farbe": "#7a3b69",
+   "ort": "Ost",
+   "typ": "Restaurant",
+   "epoche": "seit 1811",
+   "lat": 52.5139,
+   "lng": 13.3924,
+   "ueberblick": "Berliner Traditionshaus: 1811 als Weinstube gegründet, Stammlokal der Berliner Romantik (E.T.A. Hoffmann), seit 1997 am Gendarmenmarkt. Deutsche und österreichische Küche, bekannt für Wiener Schnitzel.",
+   "oeff": "Täglich ca. 12–24 Uhr",
+   "preis": "Hauptgerichte ca. 24–49 € (Karte Frühjahr 2026)",
+   "station": "U Stadtmitte",
+   "fussweg": "ca. 3 Min. zu Fuß",
+   "linien": [
+    "U2",
+    "U6"
+   ],
+   "wissen": [
+    "Reservieren: Tel. 030 20295415 oder l-w-berlin.de.",
+    "Adresse: Charlottenstraße 56; alternativ U6 Französische Straße (ca. 4 Min.).",
+    "Herbstkarte kann von den Preisen abweichen."
+   ],
+   "naehe": "Gendarmenmarkt · Checkpoint Charlie (U6) · Unter den Linden",
+   "wetter": "☂ Innen – wetterunabhängig",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "Lutter & Wegner",
+   "sched": [
+    {
+     "t": "12–24",
+     "s": "o"
+    },
+    {
+     "t": "12–24",
+     "s": "o"
+    },
+    {
+     "t": "12–24",
+     "s": "o"
+    },
+    {
+     "t": "12–24",
+     "s": "o"
+    },
+    {
+     "t": "12–24",
+     "s": "o"
+    },
+    {
+     "t": "12–24",
+     "s": "o"
+    },
+    {
+     "t": "12–24",
+     "s": "o"
+    }
+   ],
+   "res": {
+    "lvl": "m",
+    "txt": "Tel. 030 20295415 oder l-w-berlin.de"
+   },
+   "frei": false,
+   "dd": [
+    "Das Weinlokal „Lutter & Wegner“ ist eine Berliner Institution. Gegründet wurde es 1811 in der Charlottenstraße 49 vom Weinhändler Louis Lutter und Kammergerichtsrat Heinrich Wegner. Der Schriftsteller E. T. A. Hoffmann soll hier Stammgast gewesen sein, ebenso Schauspieler Ludwig Devrient – das Lokal gilt als literarischer Ort.",
+    "Das Lokal hat zwei Weltkriege und die Teilung der Stadt überstanden – das Haus selbst musste dabei mehrfach wiederaufgebaut werden. Es liegt heute direkt am Gendarmenmarkt.",
+    "Bekannt ist das Lokal für Wiener Schnitzel und Weine; die Preise sind gehoben. Aktuelle Karte vorab auf der Website ansehen.",
+    "Wichtig: Tisch reservieren. Wenn das Wetter schlecht ist, ist ein Reservierungs-Slot ein guter Fixpunkt im flexiblen Plan – man kann das übrige Programm danach ausrichten.",
+    "Gesprächsanlass: Welche Orte in einer Stadt bleiben über 200 Jahre bestehen, und warum? Ein Lokal ist ein Stück Alltagsgeschichte, das Kriege und Systemwechsel überlebt hat."
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Lutter & Wegner",
+     "u": "https://www.l-w-berlin.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Lutter & Wegner",
+     "u": "https://de.wikipedia.org/w/index.php?search=Lutter+%26+Wegner&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "traenenpalast-bahnhof-friedrichstrasse",
+   "nr": 12,
+   "titel": "Tränenpalast & Bahnhof Friedrichstraße",
+   "bezirk": "Mitte – Kreuzberg",
+   "farbe": "#7a3b69",
+   "ort": "Grenze",
+   "typ": "Innen",
+   "epoche": "DDR / Grenzübergang",
+   "lat": 52.5207,
+   "lng": 13.3875,
+   "ueberblick": "Die „Halle der Tränen“ war bis 1990 die Ausreisehalle am Grenzübergang Friedrichstraße. Die Ausstellung „GrenzErfahrungen“ zeigt den Alltag der Teilung mit Originalschaltern, Zeitzeugenfilmen und Objekten.",
+   "oeff": "Di–Fr 9–18, Sa/So/Feiertag 10–18; MONTAG GESCHLOSSEN",
+   "preis": "Frei (Audioguide-App kostenlos)",
+   "station": "S/U Friedrichstraße",
+   "fussweg": "direkt",
+   "linien": [
+    "S1",
+    "S2",
+    "S3",
+    "S5",
+    "S7",
+    "S9",
+    "S25",
+    "U6"
+   ],
+   "wissen": [
+    "Der Wochenplan sah den Besuch an einem Montag vor – dann geschlossen, auf Di–So legen.",
+    "Von hier U6 eine Station zum Checkpoint Charlie.",
+    "Bahnhof Friedrichstraße war ein geteilter Bahnhof mit Grenzkontrolle."
+   ],
+   "naehe": "Checkpoint Charlie (U6) · Unter den Linden · Hackesche Höfe",
+   "wetter": "☂ Innen – gut bei Regen",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "Tränenpalast / Friedrichstraße",
+   "sched": [
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "zu",
+     "s": "c"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "9–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Die Abfertigungshalle am Bahnhof Friedrichstraße wurde 1962 gebaut und diente als Grenzübergang für Reisende zwischen Ost- und West-Berlin. Hier verabschiedeten sich Familien: Wer aus West-Berlin oder Westdeutschland zu Besuch gewesen war, musste durch die Kontrolle zurück – die Ostdeutschen durften meist nicht mit. Die Berliner nannten die Halle deshalb „Tränenpalast“.",
+    "Die Ausstellung „Ort der deutschen Teilung“ im Haus der Geschichte arbeitet mit Originalschaltern, Kabinen, Zeitzeugen-Interviews und Alltagsdingen. Man sieht, wie Grenzkontrolle als Routine funktionierte: Taschen durchsuchen, Spiegel unter den Autos, Visa mit Stempel, Mindestumtausch.",
+    "Der Bahnhof Friedrichstraße war zugleich ein Umsteigepunkt zwischen zwei Systemen: S-Bahn und U-Bahn aus dem Westen, Fernzüge und DDR-Reichsbahn im Osten, mit gesonderten Bahnsteigen. Nach der Wende wurde das Gebäude Veranstaltungsort, heute ist es Museum.",
+    "Praktisch: Montags geschlossen, Eintritt frei. Die Ausstellung ist kompakt (ca. 45–60 Minuten) und gut mit dem Spaziergang zu Gendarmenmarkt oder Spreeufer kombinierbar.",
+    "Gesprächsanlass: Wie fühlt es sich an, wenn eine Grenze mitten durch eine Familie läuft – und wie unterscheidet sich das von den Grenzen, die wir heute kennen (Schengen, Flughafen)?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Haus der Geschichte: Tränenpalast",
+     "u": "https://www.hdg.de/traenenpalast"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Tränenpalast",
+     "u": "https://de.wikipedia.org/w/index.php?search=Tr%C3%A4nenpalast&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "checkpoint-charlie",
+   "nr": 13,
+   "titel": "Checkpoint Charlie",
+   "bezirk": "Mitte – Kreuzberg",
+   "farbe": "#7a3b69",
+   "ort": "Grenze",
+   "typ": "Außen (+ Museum)",
+   "epoche": "Kalter Krieg",
+   "lat": 52.5075,
+   "lng": 13.3904,
+   "ueberblick": "Ehemaliger Grenzübergang für Alliierte und Ausländer zwischen US-Sektor und Ost-Berlin. Am 27./28. Oktober 1961 standen sich hier sowjetische und amerikanische Panzer gegenüber. Heute: Nachbau des Wachhäuschens, Freiluftausstellung, viel Touristentrubel.",
+   "oeff": "Freiluft jederzeit; Mauermuseum ca. 10–18 (prüfen)",
+   "preis": "Freiluft frei; Mauermuseum ca. 17 € (prüfen)",
+   "station": "U Kochstraße / Checkpoint Charlie",
+   "fussweg": "direkt",
+   "linien": [
+    "U6"
+   ],
+   "wissen": [
+    "Das Wachhäuschen ist ein Nachbau; das Original steht im Alliiertenmuseum.",
+    "27.10.2026 ist der 65. Jahrestag der Panzerkonfrontation.",
+    "Fotos mit „Soldaten“-Darstellern kosten Geld."
+   ],
+   "naehe": "Topographie des Terrors · Tränenpalast · Gendarmenmarkt",
+   "wetter": "☀ Draußen · Mauermuseum drinnen",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Checkpoint Charlie",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "„Charlie“ ist das C im Nato-Alphabet: Kontrollpunkt Nr. 3 der Alliierten an der Friedrichstraße. Hier ging es für Ausländer, Diplomaten und Militärangehörige von West nach Ost. Am 27. Oktober 1961 standen sich hier sowjetische und amerikanische Panzer direkt gegenüber – eine der gefährlichsten Konfrontationen des Kalten Krieges.",
+    "Das Schild „You are leaving the American Sector“ markiert noch heute die frühere Grenze, das Kontrollhäuschen ist eine Nachbildung. Ein Teil der Szene ist Touristenkulisse: Schauspieler in Uniform, Souvenirstände, Fotopunkte. Die eigentlichen Informationen finden sich auf den Tafeln und Freiluftausstellungen der Umgebung, besonders zum Mauerbau und zur Geschichte der Flucht.",
+    "Das private Mauermuseum – Haus am Checkpoint Charlie, von Rainer Hildebrandt gegründet – dokumentiert vor allem Fluchtgeschichten mit Originalobjekten. Es ist dicht, teils unübersichtlich und eher privat als wissenschaftlich kuratiert. Wer Platz im Zeitbudget hat, bekommt hier viele konkrete Schicksale.",
+    "Empfehlung: Kurz hinschauen (15–20 Minuten), lesen, Foto machen – und dann zur Topographie des Terrors weiterlaufen (ca. 5–10 Minuten), wo die Geschichte sachlicher und tiefer erzählt wird.",
+    "Gesprächsanlass: Wie verhält sich der Ort als Mahnmal zu dem, was er heute als Touristenattraktion ist? Darf man hier ein Selfie machen?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Mauermuseum – Haus am Checkpoint Charlie",
+     "u": "https://www.mauermuseum.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Checkpoint Charlie",
+     "u": "https://de.wikipedia.org/w/index.php?search=Checkpoint+Charlie&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "topographie-des-terrors-anhalter-bahnhof",
+   "nr": 14,
+   "titel": "Topographie des Terrors & Anhalter Bahnhof",
+   "bezirk": "Mitte – Kreuzberg",
+   "farbe": "#7a3b69",
+   "ort": "Grenze",
+   "typ": "Außen + Innen",
+   "epoche": "NS-Zeit / Täter",
+   "lat": 52.5067,
+   "lng": 13.3837,
+   "ueberblick": "Auf dem Gelände saßen Gestapo-Zentrale, SS-Führung und Reichssicherheitshauptamt. Ausstellung im Haus und im Freien über Täter, Institutionen und Terror. Daneben ein 200 m langes Originalstück der Berliner Mauer (Niederkirchnerstraße).",
+   "oeff": "Täglich 10–20 Uhr; Außenbereich bis Dämmerung",
+   "preis": "Frei",
+   "station": "S Anhalter Bahnhof",
+   "fussweg": "ca. 5 Min. zu Fuß",
+   "linien": [
+    "S1",
+    "S2",
+    "S25",
+    "S26"
+   ],
+   "wissen": [
+    "Standort der früheren Gestapo-Zentrale, Prinz-Albrecht-Straße 8; Adresse heute Niederkirchnerstraße 8.",
+    "Gegenüber: ehem. Reichsluftfahrtministerium, heute Bundesfinanzministerium.",
+    "Außenausstellung entlang der Niederkirchnerstraße, Geländerundgang mit 15 Stationen.",
+    "Ruine des Anhalter Bahnhofs (Portal) ca. 5 Min. entfernt."
+   ],
+   "naehe": "Anhalter Bahnhof · Checkpoint Charlie (15 Min.) · Potsdamer Platz",
+   "wetter": "☂ Ausstellung innen · Mauerrest/Gelände draußen",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "Topographie des Terrors",
+   "sched": [
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Auf diesem Gelände standen von 1933 bis 1945 die Zentralen der Gestapo, der SS und des Reichssicherheitshauptamts – von hier aus wurden Verfolgung, Terror und Völkermord im ganzen besetzten Europa organisiert. Nach 1945 wurden die Gebäude zerstört, das Gelände blieb jahrzehntelang eine Brache direkt an der Mauer.",
+    "Die Ausstellung „Topographie des Terrors“ setzt auf Dokumente, Fotos und Texte; sie erzählt die Geschichte der Täter, nicht der Opfer. Das ist ungewöhnlich und wichtig: Sie zeigt, dass der NS-Terror von Beamten, Juristen und Verwaltungsleuten organisiert wurde. Der Freiluftteil entlang des Grabens zeigt die freigelegten Kellerreste („Gestapo-Gefängnis“).",
+    "Ein Stück der originalen Berliner Mauer steht direkt am Gelände – eines der längsten erhaltenen Stücke an ihrem ursprünglichen Ort. Das Dokumentationszentrum (2010 eröffnet, Architektin Ursula Wilms) ist bewusst schlicht gehalten.",
+    "Praxis: Eintritt frei, täglich 10–20 Uhr, Audioguide möglich. Für die Jungs: Die Ausstellung ist textlastig – auswählen, was interessiert, und nicht alles lesen müssen. 1–1,5 Stunden reichen.",
+    "Gesprächsanlass: Warum zeigt man hier die Täter und nicht nur die Opfer? Was lernt man, wenn man Verwaltung, Alltag und Karrieren als Teil des Verbrechens versteht?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Topographie des Terrors",
+     "u": "https://www.topographie.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Topographie des Terrors",
+     "u": "https://de.wikipedia.org/w/index.php?search=Topographie+des+Terrors&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "potsdamer-platz",
+   "nr": 15,
+   "titel": "Potsdamer Platz",
+   "bezirk": "Mitte – Kreuzberg",
+   "farbe": "#7a3b69",
+   "ort": "Grenze",
+   "typ": "Außen + Aussicht",
+   "epoche": "Teilung / Neubau 1990er",
+   "lat": 52.5096,
+   "lng": 13.376,
+   "ueberblick": "Vor 1945 verkehrsreichster Platz Europas, nach 1961 Brachland im Grenzstreifen, seit den 1990ern Neubauviertel (Sony Center, Arkaden, Kollhoff-Tower). Einzelne Mauersegmente und ein Nachbau der ersten Verkehrsampel (1924) erinnern an die Geschichte. Der Panoramapunkt im Kollhoff-Tower liegt 100 m hoch.",
+   "oeff": "Platz jederzeit; Panoramapunkt tägl. 10–18/19:30 (Wintersaison, prüfen)",
+   "preis": "Platz frei; Panoramapunkt kostenpflichtig (Preis online prüfen)",
+   "station": "S/U Potsdamer Platz",
+   "fussweg": "direkt",
+   "linien": [
+    "S1",
+    "S2",
+    "S25",
+    "S26",
+    "U2"
+   ],
+   "wissen": [
+    "Panoramapunkt: Potsdamer Platz 1, Etage 24–25, Aufzug in ca. 20 Sekunden; Ausstellung „Berliner Blicke“ zur Platzgeschichte.",
+    "Berlin WelcomeCard gibt ca. 33 % Ermäßigung auf den Panoramapunkt.",
+    "Mauersegmente an der Stresemannstraße/Potsdamer Platz.",
+    "Nur wenige Minuten zur Topographie des Terrors."
+   ],
+   "naehe": "Topographie des Terrors · Holocaust-Mahnmal · Bendlerblock",
+   "wetter": "☂/☀ Arkaden/Sony Center überdacht · Aussicht nur bei klarer Sicht",
+   "wetterkind": "gemischt",
+   "vermerk": "",
+   "kurz": "Potsdamer Platz",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": false,
+   "dd": [
+    "Vor dem Zweiten Weltkrieg war der Potsdamer Platz einer der verkehrsreichsten Plätze Europas – mit der ersten Ampel Deutschlands (1924) und dem Potsdamer Bahnhof. Der Krieg zerstörte ihn, der Mauerbau machte ihn zum Niemandsland: Rund 30 Jahre lang war hier ein Todesstreifen mit Wachtürmen.",
+    "Nach 1990 wurde die Brache zur größten Baustelle Europas. Daimler, Sony und andere Investoren bauten das neue Stadtviertel: Hochhäuser, das Sony Center mit der Glaskuppel, Arkaden, Kino. Am Rand liegen noch Mauersegmente, und im Pflaster zeigt eine doppelte Steinreihe den Mauerverlauf.",
+    "Das Weinhaus Huth ist eines der wenigen Gebäude, die den Krieg überstanden haben – es steht seltsam einsam zwischen den Neubauten. Vom Kollhoff-Tower geht es mit dem schnellsten Aufzug Europas auf die Aussichtsplattform (Eintritt).",
+    "Praxis: Gut mit der Topographie des Terrors (ca. 10 Minuten zu Fuß) kombinierbar. Für Jungs: Das Sony Center hat Kino, Legoland und Stände; ein Pausenort bei Regen.",
+    "Gesprächsanlass: Ein Platz, der Weltstadt, Todesstreifen und Neubauviertel war – was sagt es über eine Stadt, dass sie solche Brüche aushalten muss?"
+   ],
+   "links": [
+    {
+     "k": "l",
+     "t": "Wikipedia: Potsdamer Platz",
+     "u": "https://de.wikipedia.org/w/index.php?search=Potsdamer+Platz&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "gedenkstaette-berliner-mauer-bernauer-st",
+   "nr": 16,
+   "titel": "Gedenkstätte Berliner Mauer, Bernauer Straße (inkl. Nordbahnhof)",
+   "bezirk": "Mitte – Nord",
+   "farbe": "#a4372b",
+   "ort": "Grenze",
+   "typ": "Außen + Innen",
+   "epoche": "Mauerbau 1961–1989",
+   "lat": 52.5352,
+   "lng": 13.3897,
+   "ueberblick": "Zentraler Mauergedenkort: erhaltener Grenzstreifen mit Wachturm und Hinterlandmauer, Fluchtgeschichten, Aussichtsplattform am Dokumentationszentrum, Kapelle der Versöhnung. Im S-Bahnhof Nordbahnhof: Ausstellung „Geisterbahnhöfe“.",
+   "oeff": "Besucher-/Doku-Zentrum Di–So 10–18, Mo zu; Außenausstellung tägl. 8–22",
+   "preis": "Frei",
+   "station": "S Nordbahnhof",
+   "fussweg": "ca. 5 Min. zu Fuß",
+   "linien": [
+    "S1",
+    "S2",
+    "S25",
+    "S26"
+   ],
+   "wissen": [
+    "Adresse Besucherzentrum: Bernauer Straße 111; alternativ U8 Bernauer Straße oder Tram M10.",
+    "Dokumentationszentrum mit Aussichtsplattform, Kapelle der Versöhnung, 350 m Gedenkstätte entlang der Bernauer Straße.",
+    "Im Boden markiert eine Linie den Mauerverlauf; Audiostationen im Freien.",
+    "Im S-Bahnhof Nordbahnhof: Ausstellung „Geisterbahnhöfe“."
+   ],
+   "naehe": "Mauerpark · Hackesche Höfe (S-Bahn) · Rosenthaler Platz",
+   "wetter": "☀ Überwiegend draußen · Doku-Zentrum drinnen",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Gedenkstätte Mauer, Bernauer Str.",
+   "sched": [
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "nur außen",
+     "s": "w"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "An der Bernauer Straße verlief die Grenze mitten durch ein Wohngebiet: Die Häuser gehörten zum Osten, der Bürgersteig davor zum Westen. Nach dem Mauerbau am 13. August 1961 sprangen Menschen aus den Fenstern der Grenzhäuser; später wurden die Häuser geräumt und abgerissen, die Fenster zugemauert. Hier ist die Teilung als Alltagserfahrung besonders gut erfahrbar.",
+    "Die Gedenkstätte ist ein Freilichtbereich von etwa 1,4 km Länge mit Originalresten des Grenzstreifens, Informationstafeln, Fotos und Audiostationen, dazu ein Dokumentationszentrum mit Aussichtsturm. Das Denkmal mit den Stahlstäben zeigt, wie der „Todesstreifen“ aussah: Mauer, Wachturm, Signalzaun.",
+    "Die Kapelle der Versöhnung steht an der Stelle der 1985 gesprengten Versöhnungskirche – ein sehr ruhiger Ort. Der S-Bahnhof Nordbahnhof gehörte zu den „Geisterbahnhöfen“: Westberliner Züge fuhren hindurch, ohne zu halten, bewacht von Grenztruppen.",
+    "Praxis: Das Außengelände ist frei zugänglich (tagsüber), das Besucherzentrum öffnet Di–So 10–18; montags nur außen. Plant 1,5–2 Stunden, wetterfest anziehen.",
+    "Gesprächsanlass: Wie würde sich euer Schulweg ändern, wenn mitten durch die Straße eine Mauer gebaut würde – und wer entscheidet, welches Ufer „Heimat“ ist?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Stiftung Berliner Mauer",
+     "u": "https://www.stiftung-berliner-mauer.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Gedenkstätte Berliner Mauer",
+     "u": "https://de.wikipedia.org/w/index.php?search=Gedenkst%C3%A4tte+Berliner+Mauer&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "prenzlauer-berg-kiez-spaziergang",
+   "nr": 17,
+   "titel": "Prenzlauer Berg (Kiez-Spaziergang)",
+   "bezirk": "Prenzlauer Berg",
+   "farbe": "#ad1457",
+   "ort": "Ost",
+   "typ": "Außen",
+   "epoche": "DDR / heute",
+   "lat": 52.54,
+   "lng": 13.413,
+   "ueberblick": "Gründerzeitviertel im Ostteil der Stadt, in der DDR Szenebezirk, heute ruhig und familiär. Highlights: Kollwitzplatz, Kastanienallee, Park am Wasserturm, Kulturbrauerei (ehem. Brauerei) und der Mauerpark am früheren Grenzstreifen mit Sonntags-Flohmarkt.",
+   "oeff": "Viertel jederzeit; Mauerpark-Flohmarkt So 10–18 Uhr",
+   "preis": "Frei",
+   "station": "U Eberswalder Straße",
+   "fussweg": "ca. 5 Min. zu Fuß",
+   "linien": [
+    "U2"
+   ],
+   "wissen": [
+    "Flohmarkt: Bernauer Straße 63–64; So 25.10. (Anreisetag) fällt auf einen Sonntag.",
+    "Kollwitzplatz: samstags Bio-Markt (Zeiten prüfen).",
+    "Mauerpark liegt ca. 10 Min. von der Gedenkstätte Bernauer Straße.",
+    "Konnopke's Imbiss direkt an der U2-Station Eberswalder Straße."
+   ],
+   "naehe": "Konnopke's Imbiss · Mauerpark · Gedenkstätte Bernauer Straße",
+   "wetter": "☀ Draußen – bei Regen Cafés",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Prenzlauer Berg (Kiez)",
+   "sched": [
+    {
+     "t": "Flohmarkt",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Prenzlauer Berg war zu DDR-Zeiten ein Altbaubezirk mit bröckelnden Fassaden, Kohleöfen und einer lebendigen Subkultur: Künstler, Oppositionelle, Dichter, Hausbesetzer. In der evangelischen Gethsemanekirche trafen sich im Herbst 1989 Friedensgruppen – von hier gingen Mahnwachen für verhaftete Demonstranten aus.",
+    "Nach 1990 wurde der Bezirk saniert, junge Familien aus dem Westen zogen zu – Prenzlauer Berg gilt als Beispiel für Gentrifizierung. Heute stehen schön restaurierte Gründerzeithäuser neben Spielplätzen und Cafés; rund um die Kastanienallee und den Kollwitzplatz kann man schlendern.",
+    "Mittelpunkt für Geschichte: Mauerpark (ehemaliger Grenzstreifen, sonntags Flohmarkt und Karaoke im Amphitheater) und Schönhauser Allee mit dem Jüdischen Friedhof. Die Kulturbrauerei zeigt außerdem, wie Industriebauten zu Kulturorten wurden.",
+    "Praxis: Ein Spaziergang von 1,5–2 Stunden; ideal mit der Straßenbahn M10 oder U2. Konnopke’s Imbiss liegt am Hochbahnviadukt (U2) direkt vor Ort.",
+    "Gesprächsanlass: Wem gehört ein Stadtteil – denen, die ihn aufgebaut haben, oder denen, die später teure Wohnungen kaufen?"
+   ],
+   "links": [
+    {
+     "k": "l",
+     "t": "Wikipedia: Prenzlauer Berg",
+     "u": "https://de.wikipedia.org/w/index.php?search=Prenzlauer+Berg&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Mauerpark",
+     "u": "https://de.wikipedia.org/w/index.php?search=Mauerpark&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "konnopke-s-imbiss-currywurst",
+   "nr": 18,
+   "titel": "Konnopke's Imbiss (Currywurst)",
+   "bezirk": "Prenzlauer Berg",
+   "farbe": "#ad1457",
+   "ort": "Ost",
+   "typ": "Imbiss",
+   "epoche": "seit 1930",
+   "lat": 52.5408,
+   "lng": 13.4122,
+   "ueberblick": "Berlins bekannteste Currywurst-Bude unter der Hochbahn der U2, 1930 von Max Konnopke gegründet; die erste Currywurst Ost-Berlins gab es hier 1960. Dazu Bratwurst, Boulette, Pommes, Kartoffelsalat, vegane Currywurst.",
+   "oeff": "Di–Fr 11–18, Sa 12–19; SONNTAG UND MONTAG GESCHLOSSEN",
+   "preis": "Currywurst ca. 4–5 € (nicht belegt – vor Ort prüfen)",
+   "station": "U Eberswalder Straße",
+   "fussweg": "direkt",
+   "linien": [
+    "U2"
+   ],
+   "wissen": [
+    "Adresse: Schönhauser Allee 44B (unter dem Viadukt), Prenzlauer Berg.",
+    "Wurst wahlweise ganz oder geschnitten, verschiedene Schärfegrade.",
+    "Am Anreisetag (So) und am Mo geschlossen – ab Di möglich."
+   ],
+   "naehe": "Mauerpark · Kastanienallee · Kollwitzplatz",
+   "wetter": "☂/☀ Imbiss unter der Hochbahn, bei Regen geschützt",
+   "wetterkind": "gemischt",
+   "vermerk": "",
+   "kurz": "Konnopke's Currywurst",
+   "sched": [
+    {
+     "t": "zu",
+     "s": "c"
+    },
+    {
+     "t": "zu",
+     "s": "c"
+    },
+    {
+     "t": "11–18",
+     "s": "o"
+    },
+    {
+     "t": "11–18",
+     "s": "o"
+    },
+    {
+     "t": "11–18",
+     "s": "o"
+    },
+    {
+     "t": "11–18",
+     "s": "o"
+    },
+    {
+     "t": "12–19",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": false,
+   "dd": [
+    "Konnopke’s Imbiss unter dem Hochbahnviadukt der U2 gehört zu den ältesten Currywurst-Ständen Berlins. Max Konnopke eröffnete ihn 1930 in Prenzlauer Berg; in der DDR führte die Familie ihn als einer der wenigen privaten Imbissbetriebe weiter – ein Sonderfall im sozialistischen System.",
+    "Die Currywurst gibt es laut Legende seit 1949: Herta Heuwer soll sie in West-Berlin erfunden haben, indem sie Tomatenmark, Currypulver und Gewürze mischte. Auch in der DDR wurde sie später populär, wo Ketchup und Currypulver Mangelware waren. Der Konnopke’s-Stil: Wurst mit Pelle, eigene Sauce.",
+    "Praxis: Di–Fr 11–18, Sa 12–19, So/Mo geschlossen. Es gibt oft Schlangen; kommt außerhalb der Stoßzeiten (vor 12 oder nach 14 Uhr). Man isst im Stehen.",
+    "Für die Familie: Ein guter Kontrast zum Gedenkstätten-Programm – Essen als Alltagskultur. Dazu passt der Spaziergang durch Prenzlauer Berg.",
+    "Gesprächsanlass: Was macht ein Gericht zu einem „Berliner“ Gericht – und was sagen Currywurst und Döner über die Stadtgeschichte von Ost und West?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Konnopke's Imbiss",
+     "u": "https://www.konnopke-imbiss.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Konnopke's Imbiß",
+     "u": "https://de.wikipedia.org/w/index.php?search=Konnopke%27s+Imbi%C3%9F&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "hackesche-hoefe",
+   "nr": 19,
+   "titel": "Hackesche Höfe",
+   "bezirk": "Spreeufer – Alex",
+   "farbe": "#b8650e",
+   "ort": "Ost",
+   "typ": "Außen",
+   "epoche": "1906 / Stadtgeschichte",
+   "lat": 52.5242,
+   "lng": 13.4027,
+   "ueberblick": "Acht verbundene Höfe der Gründerzeit (1906), Jugendstil-Fassade im 1. Hof. Wohnen, Arbeiten, Kultur, Läden und Cafés Tür an Tür; in der DDR verfallen, nach 1990 saniert.",
+   "oeff": "Höfe jederzeit zugänglich; Läden/Cafés meist ab 10 Uhr",
+   "preis": "Frei",
+   "station": "S Hackescher Markt",
+   "fussweg": "direkt",
+   "linien": [
+    "S3",
+    "S5",
+    "S7",
+    "S9"
+   ],
+   "wissen": [
+    "Tram M1, M4 und M5 halten am Hackeschen Markt.",
+    "Nebenan: Anne Frank Zentrum (Rosenthaler Str. 39), Zeiten/Preis prüfen.",
+    "Gute Café- und Shopping-Pause."
+   ],
+   "naehe": "DDR Museum · Neue Synagoge · Alexanderplatz",
+   "wetter": "☂/☀ Höfe draußen, überdacht möglich",
+   "wetterkind": "gemischt",
+   "vermerk": "",
+   "kurz": "Hackesche Höfe",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Die Hackeschen Höfe entstanden 1906 nach Plänen von Kurt Berndt und August Endell – ein Komplex aus acht miteinander verbundenen Hinterhöfen. Der erste Hof ist mit glasierten Jugendstil-Fliesen verkleidet; er gilt als Meisterwerk des Berliner Jugendstils. Das Konzept: Wohnen, Arbeiten, Vergnügen unter einem Dach – Geschäfte, Werkstätten, Wohnungen, ein Festsaal.",
+    "Im Dritten Reich wurden jüdische Bewohner und Betriebe vertrieben. Im Krieg überstand der Komplex die Zerstörung, zu DDR-Zeiten verfiel er. Nach 1990 wurde er saniert und ist heute ein beliebtes Ausgehviertel mit Läden, Cafés, Kino und Kleinkunst.",
+    "In der Nähe liegen Otto Weidts Blindenwerkstatt (Museum, kostenlos) – hier versteckte und rettete Otto Weidt jüdische Arbeiter – und die Neue Synagoge in der Oranienburger Straße. Die Sophienstraße und die Heckmann-Höfe sind ruhigere Nachbarn.",
+    "Praxis: Die Höfe sind frei zugänglich (tagsüber, Läden eigene Zeiten). 30–45 Minuten reichen.",
+    "Gesprächsanlass: Wie haben sich Orte, in denen Menschen wohnten und arbeiteten, verändert – von jüdischer Gemeinde über DDR-Verfall zu Touristenmagnet?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Hackesche Höfe",
+     "u": "https://www.hackesche-hoefe.com"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Hackesche Höfe",
+     "u": "https://de.wikipedia.org/w/index.php?search=Hackesche+H%C3%B6fe&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Museum Blindenwerkstatt Otto Weidt",
+     "u": "https://www.blindes-vertrauen.de"
+    }
+   ]
+  },
+  {
+   "id": "ddr-museum",
+   "nr": 20,
+   "titel": "DDR Museum",
+   "bezirk": "Spreeufer – Alex",
+   "farbe": "#b8650e",
+   "ort": "Ost",
+   "typ": "Innen",
+   "epoche": "DDR-Alltag",
+   "lat": 52.5195,
+   "lng": 13.4026,
+   "ueberblick": "Interaktives Museum zum Alltag in der DDR: begehbare Plattenbauwohnung, Trabi-Simulator, Schubladen mit Alltagsgegenständen.",
+   "oeff": "Täglich 9–21 Uhr (Zeitfenster-Ticket)",
+   "preis": "Kombiticket mit Depot ab 13,90 €; Kinder/Schüler ermäßigt (prüfen)",
+   "station": "S Hackescher Markt",
+   "fussweg": "ca. 5 Min. zu Fuß",
+   "linien": [
+    "S3",
+    "S5",
+    "S7",
+    "S9"
+   ],
+   "wissen": [
+    "Tickets als Smartphone-Voucher am Kauftag gültig; vorab online reservieren, besonders in den Herbstferien.",
+    "Alternativ S/U Alexanderplatz (ca. 10 Min.); Tram M4/M5/M6.",
+    "Depot (Marzahn) nur Mo–Fr 9–17 – nicht im Plan.",
+    "Adresse: Karl-Liebknecht-Straße 1, am Spreeufer gegenüber dem Dom."
+   ],
+   "naehe": "Humboldt Forum · Hackesche Höfe · Alexanderplatz",
+   "wetter": "☂ Innen – gut bei Regen",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "DDR Museum",
+   "sched": [
+    {
+     "t": "9–21",
+     "s": "o"
+    },
+    {
+     "t": "9–21",
+     "s": "o"
+    },
+    {
+     "t": "9–21",
+     "s": "o"
+    },
+    {
+     "t": "9–21",
+     "s": "o"
+    },
+    {
+     "t": "9–21",
+     "s": "o"
+    },
+    {
+     "t": "9–21",
+     "s": "o"
+    },
+    {
+     "t": "9–21",
+     "s": "o"
+    }
+   ],
+   "res": {
+    "lvl": "r",
+    "txt": "Zeitfenster-Ticket online"
+   },
+   "frei": false,
+   "dd": [
+    "Das DDR Museum direkt an der Spree ist kein klassisches Museum, sondern ein Mitmachmuseum: Man öffnet Schubladen, setzt sich in einen Trabant-Simulator, geht durch eine nachgebaute Plattenbau-Wohnung. Der Fokus liegt auf Alltag – Wohnen, Essen, Mode, Schule, Urlaub (FKK!), Überwachung.",
+    "Wer die DDR als Diktatur versteht, bekommt hier die andere Seite dazu: Menschen lebten dort normal, arbeiteten, feierten. Das Museum kritisiert aber auch: Es zeigt den Staat, die Stasi-Überwachung (nachgebautes Verhörzimmer), Zwang in der Schule und Mangelwirtschaft.",
+    "Die Dauerausstellung ist kleinteilig; viele Besucher unterschätzen die Dauer. Für 11- und 15-Jährige sind die interaktiven Elemente motivierend – wichtig ist, am Ende kurz einzuordnen, was Alltag von Unrecht trennt.",
+    "Praxis: Täglich lange geöffnet (9–21 Uhr), in den Herbstferien oft voll – Zeitfenster-Ticket vorab online buchen. Kombitickets sind teils möglich (siehe Website).",
+    "Gesprächsanlass: Was ist an einem Alltag „normal“, wenn der Staat festlegt, was man sagen, lernen und kaufen darf? Und was bedeutet „Ostalgie“?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "DDR Museum",
+     "u": "https://www.ddr-museum.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: DDR Museum",
+     "u": "https://de.wikipedia.org/w/index.php?search=DDR+Museum&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "museumsinsel-spree-bootstour",
+   "nr": 21,
+   "titel": "Museumsinsel & Spree-Bootstour",
+   "bezirk": "Spreeufer – Alex",
+   "farbe": "#b8650e",
+   "ort": "Ost",
+   "typ": "Innen + Boot",
+   "epoche": "UNESCO-Welterbe",
+   "lat": 52.5169,
+   "lng": 13.401,
+   "ueberblick": "Fünf Museen auf einer Spreeinsel, UNESCO-Welterbe seit 1999: Altes Museum, Neues Museum (Nofretete), Alte Nationalgalerie, Bode-Museum, Pergamonmuseum. Das Pergamonmuseum ist wegen Sanierung bis 04.06.2027 geschlossen, die Ausstellung „Das Panorama“ ist geöffnet. Spreefahrten ab Friedrichstraße/Nikolaiviertel fahren an der Insel vorbei.",
+   "oeff": "Museen Di–So 10–18 (Altes/Bode wochentags bis 17), MONTAG ZU; Boote: Zeiten bei Buchung",
+   "preis": "Museumsinsel-Ticket 24 € (erm. 12 €), unter 18 frei; Boot 1 Std. ab 23 €, 2¼ Std. ab 31 € (Kinderpreis prüfen)",
+   "station": "U Museumsinsel",
+   "fussweg": "direkt",
+   "linien": [
+    "U5"
+   ],
+   "wissen": [
+    "Bootsstart: Friedrichstraße oder Nikolaiviertel; Abendfahrt ab 32 € (2¼ Std.), Audioguide mehrsprachig.",
+    "Einzeltickets ca. 14 € je Museum – das Tagesticket lohnt ab zwei Häusern.",
+    "Eingang über die James-Simon-Galerie (geöffnet).",
+    "Alternativ S Hackescher Markt (ca. 5 Min.)."
+   ],
+   "naehe": "Humboldt Forum · Berliner Dom · DDR Museum",
+   "wetter": "☂ Museen innen · Boot: Sicht bei Regen eingeschränkt",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "Museumsinsel & Bootstour",
+   "sched": [
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "zu",
+     "s": "c"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": false,
+   "dd": [
+    "Die Museumsinsel liegt im nördlichen Teil der Spreeinsel und ist UNESCO-Welterbe (seit 1999). Fünf Häuser bilden das Ensemble: Altes Museum, Neues Museum (mit der Büste der Nofretete), Alte Nationalgalerie, Bode-Museum, Pergamonmuseum. Sie wurden ab 1830 von preußischen Königen gebaut, um Kunst für alle zugänglich zu machen – ein bürgerlicher Bildungsgedanke.",
+    "Im Zweiten Weltkrieg stark beschädigt, in der DDR teils wiederaufgebaut, nach 1990 saniert. Das Pergamonmuseum ist wegen Sanierung bis 2027 weitgehend geschlossen – prüft vor dem Besuch, welche Häuser offen sind.",
+    "Für Geschichtsinteressierte besonders spannend: das Neue Museum (Ägypten, Vorgeschichte) und das Bode-Museum (Münzen, Skulpturen). Montags sind die Häuser meist geschlossen. Unter 18 ist der Eintritt frei.",
+    "Bootstour: Von der Museumsinsel (Anleger Nikolaiviertel / Friedrichstraße) starten Spree-Rundfahrten durch das Regierungsviertel (ca. 1 Stunde). Man sieht die Stadtgeschichte vom Wasser: Reichstag, Kanzleramt, Hauptbahnhof, Museumsinsel.",
+    "Gesprächsanlass: Wem gehören die Kunstwerke der Museen – und wie kamen sie hierher? Die Debatte um Raubkunst und Rückgabe betrifft auch Berlin."
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Museumsinsel Berlin",
+     "u": "https://www.museumsinsel-berlin.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Museumsinsel",
+     "u": "https://de.wikipedia.org/w/index.php?search=Museumsinsel&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "alexanderplatz-fernsehturm",
+   "nr": 22,
+   "titel": "Alexanderplatz & Fernsehturm",
+   "bezirk": "Spreeufer – Alex",
+   "farbe": "#b8650e",
+   "ort": "Ost",
+   "typ": "Außen + Innen",
+   "epoche": "DDR-Stadtzentrum",
+   "lat": 52.5208,
+   "lng": 13.4094,
+   "ueberblick": "Sozialistisches Zentrum Ost-Berlins: Weltzeituhr (1969), Fernsehturm (368 m, 1969), Haus des Lehrers, Berolinahaus. Ort der großen Demonstration am 4. November 1989. Der Turm bietet ein Panorama über die geteilte und wiedervereinte Stadt.",
+   "oeff": "Platz jederzeit; Fernsehturm tägl. 9–23 Uhr",
+   "preis": "Turm ab 20 € (Online-Zeitfenster, Fast View); Kinderpreis prüfen",
+   "station": "S/U Alexanderplatz",
+   "fussweg": "direkt",
+   "linien": [
+    "S3",
+    "S5",
+    "S7",
+    "S9",
+    "U2",
+    "U5",
+    "U8"
+   ],
+   "wissen": [
+    "Zeitfenster-Ticket: 15 Min. vorher da sein (Sicherheitskontrolle); Besuch ca. 60 Min.; Aufzug in ca. 40 Sekunden.",
+    "Abends sichtbar: Ostberlin gelbliches, Westberlin weißliches Licht (durch LED-Umbau abnehmend).",
+    "Bei Wolken kaum Sicht; Treffpunkt „Unter der Weltzeituhr“."
+   ],
+   "naehe": "Sphere im Fernsehturm · Nikolaiviertel · Karl-Marx-Allee",
+   "wetter": "☀ Turm nur bei klarer Sicht sinnvoll",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Alexanderplatz & Fernsehturm",
+   "sched": [
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    }
+   ],
+   "res": {
+    "lvl": "r",
+    "txt": "Fernsehturm nur mit Online-Zeitfenster sinnvoll"
+   },
+   "frei": false,
+   "dd": [
+    "Der Alexanderplatz war Anfang des 20. Jahrhunderts Berlins Verkehrsknoten, bekannt durch Alfred Döblins Roman „Berlin Alexanderplatz“ (1929). Im Krieg zerstört, wurde er in der DDR zum sozialistischen Stadtzentrum umgebaut: breite Fußgängerzone, Hochhäuser, Brunnen der Völkerfreundschaft, Weltzeituhr (1969).",
+    "Der Fernsehturm (1969, 368 m) ist das höchste Bauwerk Deutschlands. Er sollte die technische Überlegenheit des Sozialismus zeigen – wenn die Sonne auf die Kugel fällt, erscheint ein Kreuz, das die Berliner „Rache des Papstes“ nannten. Auf der Aussichtsetage in 203 m Höhe hat man bei klarer Sicht einen Rundumblick bis über die Stadtgrenzen.",
+    "Am 4. November 1989 fand hier die größte Demonstration der DDR-Geschichte statt – ungefähr eine halbe Million Menschen forderten Meinungsfreiheit und freie Wahlen. Fünf Tage später fiel die Mauer.",
+    "Praxis: Zeitfenster-Tickets für den Fernsehturm vorab online buchen, sonst lange Wartezeit; Ausweichen auf Fast-Lane möglich (teurer). Gut bei klarem Wetter, nicht bei Nebel.",
+    "Gesprächsanlass: Wie plant ein Staat einen Platz, damit die Menschen sich so verhalten, wie er es will – und was passiert, wenn sie ihn plötzlich für etwas ganz anderes nutzen (Demonstration)?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Berliner Fernsehturm",
+     "u": "https://tv-turm.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Alexanderplatz",
+     "u": "https://de.wikipedia.org/w/index.php?search=Alexanderplatz&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Alexanderplatz-Demonstration 1989",
+     "u": "https://de.wikipedia.org/w/index.php?search=Alexanderplatz-Demonstration+1989&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "drehrestaurant-sphere-im-fernsehturm",
+   "nr": 23,
+   "titel": "Drehrestaurant Sphere im Fernsehturm",
+   "bezirk": "Spreeufer – Alex",
+   "farbe": "#b8650e",
+   "ort": "Ost",
+   "typ": "Restaurant (207 m)",
+   "epoche": "DDR-Bau 1969",
+   "lat": 52.5208,
+   "lng": 13.4094,
+   "ueberblick": "Restaurant in 207 m Höhe in der Kugel des Fernsehturms; dreht sich zweimal pro Stunde um die eigene Achse (360°-Panorama). Küche von Tim Raue (Berliner/Brandenburger Klassiker, u. a. Königsberger Klopse). Das Restaurantticket enthält Schnelleinlass am Turm.",
+   "oeff": "Restaurant tägl. 9–23 Uhr; Sphere Bar 11–23 Uhr",
+   "preis": "Ticket mit Tisch ab 20 € (Kinder 4–14 J. ab 14 €); Speisen extra",
+   "station": "S/U Alexanderplatz",
+   "fussweg": "ca. 3 Min. zu Fuß",
+   "linien": [
+    "S3",
+    "S5",
+    "S7",
+    "S9",
+    "U2",
+    "U5",
+    "U8"
+   ],
+   "wissen": [
+    "Online reservieren (bis 60 Tage vorab); Fensterplätze sind begehrt.",
+    "Menü „Meine Heimat“ ca. 125–154 € p. P. (Quellen weichen ab), Frühstück ab ca. 49 €.",
+    "Zeitfenster-Reservierung ist Pflicht."
+   ],
+   "naehe": "Alexanderplatz · Nikolaiviertel · DDR Museum",
+   "wetter": "☂ Innen – Sicht nur bei klarem Himmel",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "Drehrestaurant Sphere",
+   "sched": [
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    },
+    {
+     "t": "9–23",
+     "s": "o"
+    }
+   ],
+   "res": {
+    "lvl": "m",
+    "txt": "Zeitfenster Pflicht, online bis 60 Tage vorab (visitBerlin)"
+   },
+   "frei": false,
+   "dd": [
+    "Das Restaurant Sphere (früher „Telecafé“) liegt in der Kugel des Fernsehturms auf 207 m und dreht sich langsam einmal um die eigene Achse. Man sieht Berlin also nach und nach aus allen Himmelsrichtungen.",
+    "Die Einrichtung wirkt bewusst modern, die Küche ist gehoben. Es gibt Frühstück, Mittag, Abendessen; der Besuch ist nur mit Reservierung möglich. Der Tisch gilt für einen Zeitslot (Zeitfenster-Pflicht), das Ticket für die Aussichtsplattform ist im Preis enthalten oder wird angerechnet – das bitte beim Buchen prüfen.",
+    "Wichtig für die Planung: Online-Buchungen sind bis etwa 60 Tage im Voraus möglich. In Ferienzeiten sind gute Slots schnell weg. Wer Sonnenuntergang erleben will (im Oktober ca. 17 Uhr), bucht am besten den späten Nachmittag.",
+    "Der Fernsehturm war auch ein Prestigeprojekt der DDR-Führung unter Walter Ulbricht – technisch und politisch.",
+    "Gesprächsanlass: Was sieht man von oben, was man unten nicht sieht – etwa die Verläufe der ehemaligen Grenze, Ost- und West-Stadtstruktur?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Fernsehturm: Restaurant Sphere",
+     "u": "https://tv-turm.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Berliner Fernsehturm",
+     "u": "https://de.wikipedia.org/w/index.php?search=Berliner+Fernsehturm&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "karl-marx-allee",
+   "nr": 24,
+   "titel": "Karl-Marx-Allee",
+   "bezirk": "Spreeufer – Alex",
+   "farbe": "#b8650e",
+   "ort": "Ost",
+   "typ": "Außen (Spaziergang)",
+   "epoche": "DDR / Repräsentation",
+   "lat": 52.5176,
+   "lng": 13.4333,
+   "ueberblick": "Die ehemalige Stalinallee (1950er): monumentale „Wohnpaläste für Arbeiter“. Hier begann der Volksaufstand vom 17. Juni 1953. Café Moskau, Kino International, Strausberger Platz.",
+   "oeff": "Im Freien, jederzeit",
+   "preis": "Frei",
+   "station": "U Strausberger Platz",
+   "fussweg": "direkt",
+   "linien": [
+    "U5"
+   ],
+   "wissen": [
+    "Weitere U5-Haltestellen: Schillingstraße, Weberwiese.",
+    "Tram M5/M6 verkehren entlang der Allee.",
+    "Ab Alexanderplatz stadtauswärts gehen; Strecke je nach Energie kürzen."
+   ],
+   "naehe": "Alexanderplatz · Stasimuseum (U5) · East Side Gallery",
+   "wetter": "☀ Draußen – bei Regen U5 nutzen",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Karl-Marx-Allee",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Die Karl-Marx-Allee wurde ab 1952 als „erste sozialistische Straße Berlins“ gebaut, unter dem Namen Stalinallee. Die Architektur ist monumental: Zuckerbäckerstil nach sowjetischem Vorbild mit 8–13 Stockwerken, Marmor, Keramik, Säulenportale. Die Wohnungen wurden Arbeitern und Prominenten zugeteilt – „Arbeiterpaläste“.",
+    "Hier begann am 16. und 17. Juni 1953 der Aufstand: Bauarbeiter protestierten gegen höhere Arbeitsnormen. Daraus wurde ein landesweiter Volksaufstand, den sowjetische Panzer niederschlugen. Der 17. Juni war später in der Bundesrepublik Feiertag („Tag der Deutschen Einheit“).",
+    "Nach Stalins Tod wurde die Straße 1961 in Karl-Marx-Allee umbenannt. Der zweite Bauabschnitt (ab 1959) ist moderner: Kino International, Café Moskau, Haus des Lehrers mit Bilderfries. Heute stehen die Gebäude unter Denkmalschutz.",
+    "Praxis: Mit U5 bis Strausberger Platz oder Schillingstraße fahren und bis zum Frankfurter Tor laufen (ca. 2 km). Nicht alles muss gelaufen werden – ein Stück genügt.",
+    "Gesprächsanlass: Prachtbau für Arbeiter – wem hat das genützt, und was sagt die Architektur über das Selbstbild der DDR?"
+   ],
+   "links": [
+    {
+     "k": "l",
+     "t": "Wikipedia: Karl-Marx-Allee",
+     "u": "https://de.wikipedia.org/w/index.php?search=Karl-Marx-Allee&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Volksaufstand vom 17. Juni 1953",
+     "u": "https://de.wikipedia.org/w/index.php?search=Volksaufstand+vom+17.+Juni+1953&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "east-side-gallery-ostbahnhof",
+   "nr": 25,
+   "titel": "East Side Gallery (Ostbahnhof)",
+   "bezirk": "Spreeufer – Alex",
+   "farbe": "#b8650e",
+   "ort": "Grenze",
+   "typ": "Außen",
+   "epoche": "Mauer / 1990",
+   "lat": 52.505,
+   "lng": 13.4397,
+   "ueberblick": "1,3 km Hinterlandmauer an der Spree, 1990 von über 100 Künstlern bemalt. Bekannte Motive: Bruderkuss, Trabi „Test the Rest“. Es ist die Mauer zur Stadtseite, nicht der Grenzstreifen selbst.",
+   "oeff": "Frei zugänglich, jederzeit",
+   "preis": "Frei",
+   "station": "S Ostbahnhof",
+   "fussweg": "ca. 10 Min. zu Fuß",
+   "linien": [
+    "S3",
+    "S5",
+    "S7",
+    "S9"
+   ],
+   "wissen": [
+    "Alternativ U1 Warschauer Straße (Ende an der Oberbaumbrücke).",
+    "Bilder nicht anfassen oder beschreiben – Mauerstücke werden geschützt.",
+    "Als optionaler Stopp am Ostbahnhof."
+   ],
+   "naehe": "Oberbaumbrücke · Warschauer Straße · Karl-Marx-Allee",
+   "wetter": "☀ Draußen",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "East Side Gallery",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Die East Side Gallery ist mit etwa 1,3 km das längste erhaltene Stück der Berliner Mauer. Nach der Maueröffnung bemalten im Jahr 1990 rund 118 Künstlerinnen und Künstler aus über 20 Ländern die Hinterlandmauer – auf der Seite zur Mühlenstraße, also der früheren Ost-Berliner Seite. 1991 wurde sie unter Denkmalschutz gestellt.",
+    "Berühmt sind Bilder wie der „Bruderkuss“ (Dmitri Wrubel) und „Test the Rest“ (Birgit Kinder). Viele Werke wurden später restauriert oder neu gemalt, weil Wetter und Graffiti sie beschädigt hatten. Die Gallery ist also nicht ganz „original“.",
+    "Wichtig: Es war nie die Grenzmauer im engeren Sinn, sondern die Hinterlandmauer – der eigentliche Grenzstreifen lag zwischen ihr und der Spree. Im Museum „The Wall“ in der Nähe wird die Geschichte erzählt.",
+    "Praxis: Eintritt frei, jederzeit zugänglich. Vom Ostbahnhof Richtung Oberbaumbrücke laufen (ca. 20 Minuten); mit Blick auf die Spree und die Brücke, die später Berlins Teilung als Bezirksgrenze symbolisierte. Bitte nicht die Mauer beschädigen oder bemalen.",
+    "Gesprächsanlass: Was verändert sich an einer Mauer, wenn sie Kunst wird – gewinnt oder verliert sie an Bedeutung?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "East Side Gallery",
+     "u": "https://www.eastsidegalleryberlin.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: East Side Gallery",
+     "u": "https://de.wikipedia.org/w/index.php?search=East+Side+Gallery&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "kreuzberg-kiez-spaziergang",
+   "nr": 26,
+   "titel": "Kreuzberg (Kiez-Spaziergang)",
+   "bezirk": "Kreuzberg",
+   "farbe": "#d84315",
+   "ort": "West",
+   "typ": "Außen",
+   "epoche": "West-Berlin / heute",
+   "lat": 52.499,
+   "lng": 13.418,
+   "ueberblick": "Zwei Gesichter: Bergmannkiez (ruhiger, U6/U7 Mehringdamm) und SO36 um den Kottbusser Tor (lauter, vielfältiger). Kreuzberg lag in West-Berlin direkt an der Mauer. Street Art am Landwehrkanal und in der Oranienstraße, Türkischer Markt am Maybachufer.",
+   "oeff": "Viertel jederzeit; Türkenmarkt Di + Fr 11–18:30",
+   "preis": "Frei",
+   "station": "U Kottbusser Tor",
+   "fussweg": "direkt",
+   "linien": [
+    "U1",
+    "U8"
+   ],
+   "wissen": [
+    "Türkenmarkt: Maybachufer, U8 Schönleinstraße oder U1 Kottbusser Tor, Bus M29/140.",
+    "Westteil (Bergmannkiez): U6/U7 Mehringdamm.",
+    "Am Kottbusser Tor Wertsachen am Körper tragen.",
+    "Oberbaumbrücke/East Side Gallery nahebei (U1 Warschauer Straße)."
+   ],
+   "naehe": "Örnek Lahmacun Grillhaus · Oberbaumbrücke · East Side Gallery",
+   "wetter": "☀ Draußen – bei Regen Markthallen/Cafés",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Kreuzberg (Kiez)",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "Markt",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "Markt",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Kreuzberg lag zu Mauerzeiten am Rand West-Berlins, von drei Seiten von der Mauer umgeben. Das machte es billig und unattraktiv – ideal für Studenten, Hausbesetzer, Punks, Alternative und türkische Gastarbeiterfamilien. Die „Mischung“ aus Subkultur, Migration und Politik prägt den Ruf Kreuzbergs bis heute.",
+    "Die Gastarbeiter kamen ab 1961 durch Anwerbeabkommen, das erste mit der Türkei wurde 1961 geschlossen. Heute leben in Berlin rund 200.000 Menschen mit türkischen Wurzeln. Der Wochenmarkt am Maybachufer (Di, Fr) ist ein guter Ort, das zu spüren.",
+    "Orte: Oranienstraße, Kottbusser Tor („Kotti“), Görlitzer Park, Böcklerpark; das Museum Kreuzberg und das Jüdische Museum liegen am Rand. Der 1. Mai wurde hier lange von Straßenkämpfen begleitet.",
+    "Praxis: Mit der U1 oder U8 bis Kottbusser Tor/Schönleinstraße, 1,5–2 Stunden schlendern. Taschen im Blick behalten, besonders rund um Kotti und Görlitzer Park.",
+    "Gesprächsanlass: Wie wird aus „Randlage“ ein Stadtteil mit eigener Identität, und was passiert, wenn die Lage plötzlich attraktiv wird?"
+   ],
+   "links": [
+    {
+     "k": "l",
+     "t": "Wikipedia: Berlin-Kreuzberg",
+     "u": "https://de.wikipedia.org/w/index.php?search=Berlin-Kreuzberg&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Gastarbeiter in Deutschland",
+     "u": "https://de.wikipedia.org/w/index.php?search=Gastarbeiter+in+Deutschland&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "oernek-lahmacun-grillhaus",
+   "nr": 27,
+   "titel": "Örnek Lahmacun Grillhaus",
+   "bezirk": "Kreuzberg",
+   "farbe": "#d84315",
+   "ort": "West",
+   "typ": "Restaurant / Imbiss",
+   "epoche": "ZDF-History-Tipp",
+   "lat": 52.4935,
+   "lng": 13.4228,
+   "ueberblick": "Türkische Grillstube, bekannt für dünnes, knuspriges Lahmacun (Hackfleisch-Fladen), dazu Lammkoteletts, Adana-Dürüm, Künefe. Günstig: Lahmacun ca. 2,50–5 €.",
+   "oeff": "Täglich ca. 8–24 Uhr (Filiale Karl-Marx-Str.; Kottbusser Damm nicht belegt)",
+   "preis": "Lahmacun ca. 2,50–5 €; Grill ca. 8–27 €",
+   "station": "U Schönleinstraße",
+   "fussweg": "ca. 5 Min. zu Fuß",
+   "linien": [
+    "U8"
+   ],
+   "wissen": [
+    "Adresse: Kottbusser Damm 98, 10967 Berlin; alternativ U1/U8 Kottbusser Tor.",
+    "Gleichnamige Filiale: Karl-Marx-Straße 109, 12043 (Neukölln) – Adresse vorab prüfen.",
+    "Tipp: Lahmacun mit Salat und Peperoni, Mixteller zum Teilen."
+   ],
+   "naehe": "Türkenmarkt Maybachufer · Kottbusser Tor",
+   "wetter": "☂ Innen – wetterunabhängig",
+   "wetterkind": "innen",
+   "vermerk": "In einer ZDF-History-Doku gesehen – wollen wir ausprobieren.",
+   "kurz": "Örnek Lahmacun Grillhaus",
+   "sched": [
+    {
+     "t": "8–24",
+     "s": "w"
+    },
+    {
+     "t": "8–24",
+     "s": "w"
+    },
+    {
+     "t": "8–24",
+     "s": "w"
+    },
+    {
+     "t": "8–24",
+     "s": "w"
+    },
+    {
+     "t": "8–24",
+     "s": "w"
+    },
+    {
+     "t": "8–24",
+     "s": "w"
+    },
+    {
+     "t": "8–24",
+     "s": "w"
+    }
+   ],
+   "res": null,
+   "frei": false,
+   "dd": [
+    "Dieser Tipp kommt aus einer ZDF-History-Doku: Ihr habt den Laden dort gesehen und wollt ihn ausprobieren. Dass Kreuzberg ein Zentrum der türkischen Küche in Deutschland ist, passt zur Geschichte der Gastarbeiter: Lahmacun, Pide, Grillgerichte kamen mit den Menschen in die Stadt.",
+    "Lahmacun ist ein dünn ausgerollter Teigfladen mit würzigem Hackfleisch-Belag, den man mit Zitrone, Salat und Petersilie einrollt. Gegessen wird es mit der Hand. In Berlin ist es neben dem Döner ein Klassiker der türkischen Imbisskultur.",
+    "Wichtig: Adresse und Öffnungszeiten vor dem Besuch prüfen. Ihr habt Kottbusser Damm 98 (10967 Berlin) angegeben; meine Recherche zeigte als möglichen Eintrag auch eine Filiale in der Karl-Marx-Straße 109 (12043 Berlin). In der App ist der Kartenlink auf den Standort ausgerichtet – vor Ort bitte kurz die Adresse bei Google Maps gegenprüfen.",
+    "Praxis: Imbiss, keine Reservierung nötig. Passt zu einem Mittagsstopp im Kreuzberg-Spaziergang.",
+    "Gesprächsanlass: Welche Gerichte aus eurer Küche stammen ursprünglich woanders her – und wie ist daraus Berliner Alltagskultur geworden?"
+   ],
+   "links": []
+  },
+  {
+   "id": "stasimuseum-normannenstrasse",
+   "nr": 28,
+   "titel": "Stasimuseum (Normannenstraße)",
+   "bezirk": "Lichtenberg",
+   "farbe": "#2f6b3a",
+   "ort": "Ost",
+   "typ": "Innen",
+   "epoche": "DDR / Staatsapparat",
+   "lat": 52.5113,
+   "lng": 13.4993,
+   "ueberblick": "Ehemalige Zentrale des Ministeriums für Staatssicherheit (MfS). Im Haus 1 sind Mielkes Büro und Dienstzimmer fast original erhalten. Die Ausstellung zeigt Überwachung als Verwaltungsapparat: Spitzel, Wanzen, Tarnobjekte.",
+   "oeff": "Mo–Fr 10–18, Sa/So/Feiertag 11–18",
+   "preis": "Preis nicht belegt (ca. 8–10 €, prüfen); nur Barzahlung vor Ort",
+   "station": "U Magdalenenstraße",
+   "fussweg": "ca. 10 Min. zu Fuß",
+   "linien": [
+    "U5"
+   ],
+   "wissen": [
+    "Adresse: Ruschestraße 103, Haus 1; alternativ S Frankfurter Allee.",
+    "Berlin WelcomeCard: Rabatt auf den Eintritt.",
+    "Ergänzt Hohenschönhausen: Verwaltungsapparat hier, Haftpraxis dort.",
+    "Mielkes Büro und Tarnobjekte als Highlights."
+   ],
+   "naehe": "Karl-Marx-Allee (U5) · Hohenschönhausen (Tram)",
+   "wetter": "☂ Innen – gut bei Regen",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "Stasimuseum",
+   "sched": [
+    {
+     "t": "11–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "11–18",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": false,
+   "dd": [
+    "Das Stasimuseum befindet sich in der ehemaligen Zentrale des Ministeriums für Staatssicherheit (MfS) in Lichtenberg – Haus 1. Hier saß Minister Erich Mielke. Am 15. Januar 1990 stürmten Bürgerinnen und Bürger das Gelände, um die Vernichtung der Akten zu stoppen; seitdem ist der Ort ein Archiv und ein Museum.",
+    "Die Ausstellung zeigt Mielkes Büro und Vorzimmer, die Kantine, die Technik der Überwachung (Wanzen, versteckte Kameras, Geruchsproben) und Dokumente zur Repression. Die Stasi hatte zuletzt rund 91.000 hauptamtliche und etwa 170.000 Inoffizielle Mitarbeiter bei etwa 16 Millionen DDR-Bürgern – eine der dichtesten Überwachungsapparate der Geschichte.",
+    "Besonders eindrücklich: Der Kontrast zwischen den kleinbürgerlichen Büros und der Dimension der Verfolgung. Zersetzung, Haft, Bespitzelung – alles organisiert wie in einer normalen Behörde.",
+    "Praxis: Mo–Fr 10–18, Sa/So 11–18; Eingang U Magdalenenstraße, ca. 10 Minuten zu Fuß; Zahlung laut Recherche nur bar (bitte vorab prüfen). Audioguide/Führung nachfragen. 1,5–2 Stunden einplanen.",
+    "Gesprächsanlass: Was bedeutet es, wenn Freunde oder Familie berichten? Warum ist Vertrauen die Grundlage einer freien Gesellschaft?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Stasimuseum (ASTAK)",
+     "u": "https://www.stasimuseum.de"
+    },
+    {
+     "k": "l",
+     "t": "Stasi-Unterlagen-Archiv (Bundesarchiv)",
+     "u": "https://www.stasi-unterlagen-archiv.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Ministerium für Staatssicherheit",
+     "u": "https://de.wikipedia.org/w/index.php?search=Ministerium+f%C3%BCr+Staatssicherheit&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "gedenkstaette-berlin-hohenschoenhausen",
+   "nr": 29,
+   "titel": "Gedenkstätte Berlin-Hohenschönhausen",
+   "bezirk": "Lichtenberg",
+   "farbe": "#2f6b3a",
+   "ort": "Ost",
+   "typ": "Innen + Außen (nur mit Führung)",
+   "epoche": "DDR / Repression",
+   "lat": 52.5486,
+   "lng": 13.4938,
+   "ueberblick": "Ehemaliges sowjetisches Speziallager, dann zentrales Untersuchungsgefängnis der Stasi. Führungen oft durch ehemalige Häftlinge als Zeitzeugen: Isolation, Verhöre, „U-Boot“-Zellen, Gummizellen.",
+   "oeff": "Täglich 10–18 Uhr; Führungen: Online-Ticket empfohlen",
+   "preis": "Ausstellungen ohne Führung frei; Führung ca. 8 € (prüfen)",
+   "station": "Tram M5 Freienwalder Straße",
+   "fussweg": "ca. 10 Min. zu Fuß",
+   "linien": [
+    "M5"
+   ],
+   "wissen": [
+    "Führungen oft mit ehemaligen Häftlingen als Zeitzeugen; Termine vorab buchen.",
+    "Mindestalter für Zeitzeugenführungen vorab bei der Gedenkstätte erfragen.",
+    "Alternativ Bus 256; Anfahrt ab Hotel ca. 70 Min.",
+    "Ausweis mitnehmen; viel draußen – festes Schuhwerk, warm anziehen."
+   ],
+   "naehe": "Stasimuseum (Tram/U5)",
+   "wetter": "☂/☀ Innen und Hof – Führung findet bei jedem Wetter statt",
+   "wetterkind": "gemischt",
+   "vermerk": "",
+   "kurz": "Gedenkstätte Hohenschönhausen",
+   "sched": [
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    }
+   ],
+   "res": {
+    "lvl": "m",
+    "txt": "Führungen (Zeitzeugen) vorab online buchen"
+   },
+   "frei": false,
+   "dd": [
+    "Hier lag das zentrale Untersuchungsgefängnis der Stasi. Zuvor war das Gelände nach 1945 ein sowjetisches Speziallager (NKWD), danach bis 1989 Haftort für politische Gefangene der DDR. Die Gedenkstätte wird oft von ehemaligen Häftlingen geführt, die persönlich erzählen – deshalb sind die Führungen so eindrucksvoll.",
+    "Man sieht Zellen, Verhörräume, den „U-Boot“-Keller (feuchte Zellen ohne Licht), Wachtürme und das Gelände, das auf keiner DDR-Karte verzeichnet war. Das Gebiet war Sperrgebiet. Menschen kamen hierher wegen Fluchtversuchen, Meinungsäußerungen, Ausreiseanträgen.",
+    "Wichtig für die Planung: Das Gelände ist weitläufig; der Besuch dauert 2–3 Stunden. Führungen sind sehr zu empfehlen und müssen oft vorab online gebucht werden; die Ausstellung ohne Führung ist kostenlos. Täglich 10–18 Uhr.",
+    "Die Jungs sollten wissen, was sie erwartet: Es ist ernst, aber kein Horror. Die Zeitzeugen erzählen sachlich. Wer unsicher ist, kann am Eingang entscheiden.",
+    "Gesprächsanlass: Wie lange hält ein Mensch Isolation aus, und was macht ein Staat damit? Und: Wie spricht man über Täter, die später noch jahrelang unter uns lebten?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Gedenkstätte Hohenschönhausen",
+     "u": "https://www.stiftung-hsh.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Gedenkstätte Berlin-Hohenschönhausen",
+     "u": "https://de.wikipedia.org/w/index.php?search=Gedenkst%C3%A4tte+Berlin-Hohensch%C3%B6nhausen&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "kadewe-tauentzien-ku-damm-gedaechtniskir",
+   "nr": 30,
+   "titel": "KaDeWe, Tauentzien, Ku'damm & Gedächtniskirche",
+   "bezirk": "City West",
+   "farbe": "#0f6f73",
+   "ort": "West",
+   "typ": "Innen + Außen",
+   "epoche": "1907 / Kalter Krieg",
+   "lat": 52.5015,
+   "lng": 13.3414,
+   "ueberblick": "West-Berlin als „Schaufenster des Westens“: KaDeWe (1907) mit Feinschmeckeretage im 6. Stock, Tauentzienstraße, Kurfürstendamm. Die Ruine der Kaiser-Wilhelm-Gedächtniskirche (Bomben 1943) steht als Mahnmal neben dem modernen Neubau.",
+   "oeff": "KaDeWe Mo–Do 10–20, Fr 10–21, Sa 10–20, SONNTAG GESCHLOSSEN; Gedächtniskirche tägl. (prüfen)",
+   "preis": "Kirche frei; KaDeWe frei zum Schauen",
+   "station": "U Wittenbergplatz",
+   "fussweg": "direkt",
+   "linien": [
+    "U1",
+    "U2",
+    "U3"
+   ],
+   "wissen": [
+    "Gedächtniskirche: S/U Zoologischer Garten.",
+    "6. Etage: Feinschmecker-Abteilung, Mittag/Snack möglich.",
+    "Sonntags geschlossen – Werktag wählen."
+   ],
+   "naehe": "Gedächtniskirche · Ku'damm · Zoologischer Garten",
+   "wetter": "☂ Innen – gut bei Regen",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "KaDeWe, Ku'damm, Gedächtniskirche",
+   "sched": [
+    {
+     "t": "zu",
+     "s": "c"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–21",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": false,
+   "dd": [
+    "Das „Kaufhaus des Westens“ wurde 1907 eröffnet und gehört zu den bekanntesten Kaufhäusern Europas. Mit rund 60.000 m² Verkaufsfläche ist es das größte Deutschlands. Besonders berühmt ist die Feinkostabteilung im 6. Stock – Austern, Schokolade, Kaffee, Wurstwaren aus aller Welt.",
+    "Im Zweiten Weltkrieg zerstörte ein abgestürzter US-Bomber 1943 große Teile des Hauses; es wurde bis 1950 wiederaufgebaut. Im Kalten Krieg war das KaDeWe Schaufenster des Westens: Ostberliner und DDR-Bürger sahen hier Waren, die es im Osten nicht gab. Nach der Wende kamen Tausende Besucher aus dem Osten mit dem Begrüßungsgeld.",
+    "Draußen schließt sich der Ku’damm an – der Prachtboulevard West-Berlins, mit der Kaiser-Wilhelm-Gedächtniskirche, deren zerstörter Turm bewusst als Mahnmal stehen blieb. Der moderne Neubau mit blauem Glas (Egon Eiermann, 1961) steht daneben. Innen leuchtet das Blau besonders in der Dämmerung.",
+    "Praxis: Mo–Do 10–20, Fr 10–21, Sa 10–20, sonntags geschlossen. 1–2 Stunden reichen; die Feinkostetage ist das Highlight, Stehimbiss möglich.",
+    "Gesprächsanlass: Wie sah „der Westen“ aus der Sicht der Ostberliner aus – und was erzählt ein Kaufhaus über Politik?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "KaDeWe",
+     "u": "https://www.kadewe.de"
+    },
+    {
+     "k": "o",
+     "t": "Kaiser-Wilhelm-Gedächtniskirche",
+     "u": "https://www.gedaechtniskirche-berlin.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: KaDeWe",
+     "u": "https://de.wikipedia.org/w/index.php?search=KaDeWe&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "bikini-berlin",
+   "nr": 31,
+   "titel": "Bikini Berlin",
+   "bezirk": "City West",
+   "farbe": "#0f6f73",
+   "ort": "West",
+   "typ": "Innen + Dachterrasse",
+   "epoche": "Concept Mall",
+   "lat": 52.5055,
+   "lng": 13.335,
+   "ueberblick": "Concept Mall im restaurierten 1950er-Jahre-Bau neben dem Zoo: ca. 60 Läden mit Fokus auf Design und Boutiquen, wechselnde Pop-up-Boxen, internationale Gastronomie. 7.000 m² Dachterrasse mit Blick auf Zoo und Tiergarten, Panoramafenster zum Affengehege.",
+   "oeff": "Mo–Sa 10–20 Uhr; Sonntag nicht belegt (prüfen)",
+   "preis": "Frei",
+   "station": "S/U Zoologischer Garten",
+   "fussweg": "ca. 2 Min. zu Fuß",
+   "linien": [
+    "S3",
+    "S5",
+    "S7",
+    "S9",
+    "U2",
+    "U9"
+   ],
+   "wissen": [
+    "Adresse: Budapester Straße 38–50, direkt neben Gedächtniskirche/Zoo.",
+    "Dachterrasse mit Zoo-Blick (Zugang über das Haus).",
+    "Gut kombinierbar mit KaDeWe (U Wittenbergplatz) und Ku'damm."
+   ],
+   "naehe": "Gedächtniskirche · Zoo · KaDeWe",
+   "wetter": "☂ Innen – gut bei Regen · Dachterrasse draußen",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "Bikini Berlin",
+   "sched": [
+    {
+     "t": "prüfen",
+     "s": "w"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    },
+    {
+     "t": "10–20",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Bikini Berlin ist ein Concept Mall im 1957 eröffneten „Bikinihaus“ (Architekten Paul Schwebes und Hans Schoszberger) am Zoo. Der Name kommt von der offenen Zwischenetage, die das Gebäude „wie ein Bikini“ in zwei Teile teilte – man konnte vom Straßenniveau durchschauen. Zu West-Berliner Zeiten war das Haus eine Modezentrale mit Ateliers.",
+    "Nach langem Leerstand wurde der Komplex 2013 bis 2014 zum Shoppingcenter umgebaut; heute liegen hier Pop-up-Stores, Designerläden, Food-Spots und ein Kino. Im Dach gibt es eine Terrasse mit Blick auf den Zoo und die Gedächtniskirche.",
+    "Der Ort passt zum Kapitel „West-Berlin als Schaufenster“: Moderne Nachkriegsarchitektur, die als Zeichen für den Neuanfang gedacht war. Ein Pausenort bei Regen – Kaffee, Aussicht, kurze Shopping-Runde.",
+    "Praxis: Sonntags kann es abweichen (bitte prüfen); Mo–Sa meist 10–20 Uhr. Eingang bei U/S Zoologischer Garten.",
+    "Gesprächsanlass: Was macht ein Gebäude „modern“ – und wie schnell wird Moderne selbst Geschichte?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Bikini Berlin",
+     "u": "https://www.bikiniberlin.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Bikinihaus",
+     "u": "https://de.wikipedia.org/w/index.php?search=Bikinihaus&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "thf-tower-flughafengebaeude-tempelhof",
+   "nr": 32,
+   "titel": "THF Tower & Flughafengebäude Tempelhof",
+   "bezirk": "Tempelhof",
+   "farbe": "#8a6a00",
+   "ort": "West",
+   "typ": "Innen + Dachterrasse",
+   "epoche": "NS-Bau 1936–41 / 1948 / 2008",
+   "lat": 52.4821,
+   "lng": 13.3874,
+   "ueberblick": "Das Flughafengebäude (ab 1936, Ernst Sagebiel) zählt zu den größten Gebäuden Europas und ist ein Beispiel für NS-Architektur. THF Tower: Dachterrasse mit Blick aufs Rollfeld, Ausstellung „Lufthansa. Berlin-Tempelhof 1926–1945“ (neu seit 28.05.2026). Alternativ: Führung „Mythos Tempelhof“.",
+   "oeff": "THF Tower Mi–So 10–17 (ab 01.10.), MO/DI ZU; Dachterrasse wetterabhängig",
+   "preis": "Tower ab ca. 5 € (unter 18 frei); Führung ab 17,50 € (Zeiten buchen)",
+   "station": "U Paradestraße",
+   "fussweg": "ca. 5 Min. zu Fuß",
+   "linien": [
+    "U6",
+    "S41",
+    "S42",
+    "S45",
+    "S46"
+   ],
+   "wissen": [
+    "Tower: Tempelhofer Damm 45; Führung: Besucherzentrum, Platz der Luftbrücke 5.",
+    "Tickets bis 3 Wochen vorab reservierbar.",
+    "Dachterrasse kann kurzfristig wegen Wetter schließen; Führung ca. 2 Std., ab 6 Jahre, nicht barrierefrei."
+   ],
+   "naehe": "Tempelhofer Feld · Platz der Luftbrücke (Denkmal)",
+   "wetter": "☂ Gebäude/Ausstellung innen · Terrasse bei Wetter evtl. zu",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "THF Tower & Flughafen Tempelhof",
+   "sched": [
+    {
+     "t": "10–17",
+     "s": "o"
+    },
+    {
+     "t": "zu",
+     "s": "c"
+    },
+    {
+     "t": "zu",
+     "s": "c"
+    },
+    {
+     "t": "10–17",
+     "s": "o"
+    },
+    {
+     "t": "10–17",
+     "s": "o"
+    },
+    {
+     "t": "10–17",
+     "s": "o"
+    },
+    {
+     "t": "10–17",
+     "s": "o"
+    }
+   ],
+   "res": {
+    "lvl": "r",
+    "txt": "Tickets bis 3 Wochen vorab; Führung buchen"
+   },
+   "frei": false,
+   "dd": [
+    "Der Flughafen Tempelhof wurde 1936–1941 von Ernst Sagebiel im Auftrag der Nationalsozialisten gebaut – damals eines der größten Gebäude der Welt, als Monument für die „Welthauptstadt Germania“ geplant. Das Dach sollte Tribünen für Zuschauer bieten; das Gebäude ist bis heute ein Beispiel faschistischer Architektur.",
+    "Nach 1945 übernahmen die US-Truppen Tempelhof. Während der Berliner Luftbrücke (1948/49) landeten hier fast im Minutentakt Rosinenbomber, die West-Berlin mit Lebensmitteln und Kohle versorgten, als die Sowjets alle Landwege sperrten. Das Luftbrückendenkmal vor dem Gebäude („Hungerharke“) erinnert daran.",
+    "Der Flugbetrieb endete 2008. Heute ist das Gelände ein Veranstaltungsort, im Gebäude gibt es Führungen: Gänge, Bunker, Dachterrasse, Flugsteig. Der THF Tower zeigt die Geschichte; Führungen sind buchbar und oft schnell ausgebucht.",
+    "Praxis: THF Tower Mi–So 10–17, Mo/Di zu; unter 18 Jahren frei. Tickets früh buchen. Der Besuch lässt sich mit dem Tempelhofer Feld verbinden.",
+    "Gesprächsanlass: Darf man ein Gebäude aus der NS-Zeit nutzen, ohne es zu verherrlichen? Wie geht man mit „belasteter“ Architektur um?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "THF Tower / Flughafen Tempelhof",
+     "u": "https://www.thf-berlin.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Flughafen Berlin-Tempelhof",
+     "u": "https://de.wikipedia.org/w/index.php?search=Flughafen+Berlin-Tempelhof&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Berliner Luftbrücke",
+     "u": "https://de.wikipedia.org/w/index.php?search=Berliner+Luftbr%C3%BCcke&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "tempelhofer-feld",
+   "nr": 33,
+   "titel": "Tempelhofer Feld",
+   "bezirk": "Tempelhof",
+   "farbe": "#8a6a00",
+   "ort": "West",
+   "typ": "Außen (Park)",
+   "epoche": "1948/49 Luftbrücke",
+   "lat": 52.475,
+   "lng": 13.401,
+   "ueberblick": "Das Rollfeld des stillgelegten Flughafens (355 ha) ist heute Berlins größter Stadtpark. 1948/49 flogen hier die „Rosinenbomber“ der Luftbrücke. Das Gelände war zuvor auch Ort des NS-Terrors (frühes KZ „Columbiahaus“, später Zwangsarbeit).",
+   "oeff": "Täglich von Sonnenaufgang bis Sonnenuntergang",
+   "preis": "Frei",
+   "station": "U Platz der Luftbrücke",
+   "fussweg": "Nordeingang",
+   "linien": [
+    "U6"
+   ],
+   "wissen": [
+    "Weitere Zugänge: U6 Paradestraße; S41/42/45/46 Tempelhof; U8 Boddinstraße (Herrfurthstraße).",
+    "Am Platz der Luftbrücke steht das Luftbrückendenkmal („Hungerharke“).",
+    "Kein Schatten, Wind – wetterfest anziehen."
+   ],
+   "naehe": "THF Tower · Luftbrückendenkmal",
+   "wetter": "☀ Draußen – bei Trockenheit",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Tempelhofer Feld",
+   "sched": [
+    {
+     "t": "Tageslicht",
+     "s": "o"
+    },
+    {
+     "t": "Tageslicht",
+     "s": "o"
+    },
+    {
+     "t": "Tageslicht",
+     "s": "o"
+    },
+    {
+     "t": "Tageslicht",
+     "s": "o"
+    },
+    {
+     "t": "Tageslicht",
+     "s": "o"
+    },
+    {
+     "t": "Tageslicht",
+     "s": "o"
+    },
+    {
+     "t": "Tageslicht",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Das Tempelhofer Feld war bis 2008 Flugfeld des Flughafens Tempelhof und ist seit 2010 öffentlicher Park – mit 300 Hektar eine der größten innerstädtischen Freiflächen der Welt. In einem Volksentscheid 2014 stimmten die Berliner gegen eine Bebauung; das Feld muss bleiben, wie es ist.",
+    "Historisch ist es vielschichtig: Ursprünglich Exerzierplatz, dann Wiege der Motorfliegerei (Orville Wright flog hier 1909), später NS-Flughafen. Am Rand lag 1933–1936 das frühe KZ Columbia-Haus, später entstanden hier Zwangsarbeiterlager für die Rüstungsproduktion. 1948/49 war es das Herz der Luftbrücke.",
+    "Heute fahren Menschen Skateboard, Rad, Inline, grillen, drachensteigen – auf den alten Start- und Landebahnen. Die Weite wirkt, als wäre die Stadt plötzlich zu Ende.",
+    "Praxis: Eintritt frei, in der Regel von Sonnenaufgang bis Sonnenuntergang geöffnet. Bei gutem Wetter ideal zum Auslaufen der Jungs; bei Regen wenig Schutz. Eingänge: Columbiadamm (U6 Platz der Luftbrücke) und Oderstraße.",
+    "Gesprächsanlass: Wem gehört städtischer Raum – und was bedeutet es, wenn Menschen per Abstimmung entscheiden, eine Riesenfläche leer zu lassen?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Tempelhofer Feld",
+     "u": "https://www.tempelhofer-feld.berlin.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Tempelhofer Feld",
+     "u": "https://de.wikipedia.org/w/index.php?search=Tempelhofer+Feld&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "haus-der-wannsee-konferenz",
+   "nr": 34,
+   "titel": "Haus der Wannsee-Konferenz",
+   "bezirk": "Südwest",
+   "farbe": "#5b5b5b",
+   "ort": "West",
+   "typ": "Innen",
+   "epoche": "NS-Zeit / Täterstaat",
+   "lat": 52.4332,
+   "lng": 13.1678,
+   "ueberblick": "In dieser Villa wurde am 20. Januar 1942 die „Endlösung“ koordiniert: 15 hochrangige Vertreter von SS, Ministerien und Behörden. Die Ausstellung zeigt das Protokoll, Täter und bürokratischen Massenmord. Seelage am Großen Wannsee.",
+   "oeff": "Täglich 10–18",
+   "preis": "Frei – kostenlose WebApp ghwk.de/webapp",
+   "station": "S Wannsee, dann Bus 114",
+   "fussweg": "Bus ca. 8 Min.",
+   "linien": [
+    "S1",
+    "S7",
+    "114"
+   ],
+   "wissen": [
+    "Fahrzeit vom Hotel ca. 60 Min.; Haltestelle „Haus der Wannsee-Konferenz“.",
+    "Kostenlose Führungen Sa/So 16 und 17 Uhr ohne Anmeldung.",
+    "Adresse: Am Großen Wannsee 56–58; mit Gleis 17 (S7 Grunewald) kombinierbar."
+   ],
+   "naehe": "Wannsee-Ufer · Gleis 17 Grunewald (S7)",
+   "wetter": "☂ Ausstellung innen · Garten/See draußen",
+   "wetterkind": "innen",
+   "vermerk": "",
+   "kurz": "Haus der Wannsee-Konferenz",
+   "sched": [
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    },
+    {
+     "t": "10–18",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "In der Villa am Großen Wannsee trafen sich am 20. Januar 1942 15 hochrangige Vertreter von SS, Partei und Ministerien. Reinhard Heydrich lud ein; Adolf Eichmann führte Protokoll. Besprochen wurde die „Endlösung der Judenfrage“, also die Organisation des Massenmords an den europäischen Juden – elf Millionen Menschen hatte man „erfasst“.",
+    "Wichtig zu wissen: Der Völkermord begann nicht erst hier; die Konferenz diente dazu, Zuständigkeiten zu klären und die Ministerien zu koordinieren. Das Protokoll (eines von ursprünglich 30 Exemplaren, Kopie Nr. 16 blieb erhalten) wurde 1947 gefunden.",
+    "Die Ausstellung in der Villa zeigt Dokumente, Fotos, Biografien der Teilnehmer und der Opfer. Der Eintritt ist frei. Der Garten mit Blick auf den See wirkt ruhig – gerade dieser Kontrast macht den Ort eindringlich.",
+    "Praxis: Täglich 10–18 Uhr; S-Bahn S1/S7 bis Wannsee, dann Bus 114 (ca. 10 Minuten) zur Haltestelle „Haus der Wannsee-Konferenz“. Hin- und Rückfahrt rechnen, 1,5 Stunden Besuch; gut mit einem Spaziergang am Seeufer kombinierbar.",
+    "Gesprächsanlass: Wie wird aus bürokratischem Alltag ein Verbrechen? Wo fing Verantwortung an – und wann gab es noch Möglichkeiten zu widersprechen?"
+   ],
+   "links": [
+    {
+     "k": "o",
+     "t": "Haus der Wannsee-Konferenz",
+     "u": "https://www.ghwk.de"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Wannsee-Konferenz",
+     "u": "https://de.wikipedia.org/w/index.php?search=Wannsee-Konferenz&go=Artikel"
+    }
+   ]
+  },
+  {
+   "id": "mahnmal-gleis-17-bahnhof-grunewald",
+   "nr": 35,
+   "titel": "Mahnmal Gleis 17 (Bahnhof Grunewald)",
+   "bezirk": "Südwest",
+   "farbe": "#5b5b5b",
+   "ort": "West",
+   "typ": "Außen",
+   "epoche": "NS-Zeit / Deportation",
+   "lat": 52.4886,
+   "lng": 13.2587,
+   "ueberblick": "Von diesem Gleis wurden ab 1941 tausende Berliner Jüdinnen und Juden in Vernichtungslager deportiert. Am Bahnsteig erinnern Gussplatten mit Datum, Ziel und Zahl der Deportierten.",
+   "oeff": "Frei zugänglich, jederzeit",
+   "preis": "Frei",
+   "station": "S Grunewald",
+   "fussweg": "direkt",
+   "linien": [
+    "S7"
+   ],
+   "wissen": [
+    "Gleis 17 liegt am Bahnhof Grunewald.",
+    "Optional – ergänzt Wannsee: vom Verwaltungsbeschluss zur Deportation.",
+    "Aufenthalt meist 20–30 Min."
+   ],
+   "naehe": "Wannsee-Konferenz (S7 + Bus 114)",
+   "wetter": "☀ Draußen",
+   "wetterkind": "aussen",
+   "vermerk": "",
+   "kurz": "Mahnmal Gleis 17 (Grunewald)",
+   "sched": [
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    },
+    {
+     "t": "24 h",
+     "s": "o"
+    }
+   ],
+   "res": null,
+   "frei": true,
+   "dd": [
+    "Am Bahnhof Grunewald erinnert Gleis 17 an die Deportation der Berliner Juden. Von hier – und von weiteren Berliner Orten – wurden ab Oktober 1941 zehntausende Jüdinnen und Juden in Ghettos und Vernichtungsstätten im Osten verschleppt. Der erste Transport ging am 18. Oktober 1941 nach Łódź (Litzmannstadt).",
+    "Das Mahnmal von 1998 besteht aus Stahlplatten entlang der Gleiskante; auf jeder stehen Datum, Zielort und Zahl der Deportierten – Tag für Tag, ein Jahr nach dem anderen. Zwischen den Gleisen wächst inzwischen Gras und Birken.",
+    "Es ist ein stiller Ort ohne Ausstellungshalle. Nichts lenkt ab: Man liest Zahlen und Namen von Orten, steht auf den Schienen, wenn man möchte. Informationen gibt es auf Tafeln am Eingang.",
+    "Praxis: S7 bis Grunewald, ca. 5 Minuten bis zum Mahnmal. Frei zugänglich. Gut kombinierbar mit dem Haus der Wannsee-Konferenz (S7 bis Wannsee, dann Bus 114).",
+    "Gesprächsanlass: Wie viele Menschen standen damals auf Bahnsteigen, sahen zu und gingen weiter nach Hause – und was heißt es, heute hinzusehen?"
+   ],
+   "links": [
+    {
+     "k": "l",
+     "t": "Wikipedia: Mahnmal Gleis 17",
+     "u": "https://de.wikipedia.org/w/index.php?search=Mahnmal+Gleis+17&go=Artikel"
+    },
+    {
+     "k": "l",
+     "t": "Wikipedia: Bahnhof Berlin-Grunewald",
+     "u": "https://de.wikipedia.org/w/index.php?search=Bahnhof+Berlin-Grunewald&go=Artikel"
+    }
+   ]
+  }
+ ],
+ "info": {
+  "tage": [
+   "So 25.10.",
+   "Mo 26.10.",
+   "Di 27.10.",
+   "Mi 28.10.",
+   "Do 29.10.",
+   "Fr 30.10.",
+   "Sa 31.10."
+  ],
+  "bezirke": {
+   "Regierungsviertel": "#1f4e79",
+   "Mitte – Kreuzberg": "#7a3b69",
+   "Mitte – Nord": "#a4372b",
+   "Spreeufer – Alex": "#b8650e",
+   "Lichtenberg": "#2f6b3a",
+   "City West": "#0f6f73",
+   "Südwest": "#5b5b5b",
+   "Tempelhof": "#8a6a00",
+   "Prenzlauer Berg": "#ad1457",
+   "Kreuzberg": "#d84315"
+  },
+  "allg": [
+   {
+    "g": "ÖPNV",
+    "t": "BVG – Fahrinfo & Tickets",
+    "u": "https://www.bvg.de"
+   },
+   {
+    "g": "ÖPNV",
+    "t": "S-Bahn Berlin – Störungen & Netzplan",
+    "u": "https://sbahn.berlin"
+   },
+   {
+    "g": "ÖPNV",
+    "t": "Liniennetzpläne (BVG)",
+    "u": "https://www.bvg.de/de/verbindungen/linienuebersicht"
+   },
+   {
+    "g": "Lektüre",
+    "t": "Bundeszentrale für politische Bildung (bpb)",
+    "u": "https://www.bpb.de"
+   },
+   {
+    "g": "Lektüre",
+    "t": "Lebendiges Museum Online (LeMO, DHM)",
+    "u": "https://www.dhm.de/lemo"
+   },
+   {
+    "g": "Lektüre",
+    "t": "Stiftung Berliner Mauer",
+    "u": "https://www.stiftung-berliner-mauer.de"
+   },
+   {
+    "g": "Planung",
+    "t": "visitBerlin: Veranstaltungen & Tickets",
+    "u": "https://www.visitberlin.de"
+   },
+   {
+    "g": "Planung",
+    "t": "Wetter: DWD Berlin",
+    "u": "https://www.dwd.de"
+   }
+  ],
+  "hinweise": [
+   [
+    "Tarif",
+    "Alle Ziele liegen im Tarifbereich AB. Kinder 6–14 Jahre Kindertarif (der 11-Jährige); der 15-Jährige und die Eltern Normaltarif. Wer kein Deutschlandticket hat, braucht eigene Fahrkarten – BVG-App oder Automat."
+   ],
+   [
+    "Ruhetage",
+    "MONTAG: viele Museen zu – Tränenpalast, Dokumentationszentrum Bernauer Str., Ort der Information (Holocaust-Mahnmal), Museumsinsel, Konnopke's. SONNTAG: KaDeWe, Konnopke's zu. MO/DI: THF Tower zu. Reichstagskuppel 19.–30.10. gesperrt."
+   ],
+   [
+    "Licht",
+    "Sonnenuntergang um den 25.10. ca. 17 Uhr (Zeitumstellung am 25.10.!), Ende Oktober ca. 16:45. Außenstationen vormittags/früher Nachmittag."
+   ],
+   [
+    "Ferien",
+    "Berliner Herbstferien (vermutlich 19.–31.10., bitte prüfen): Museen und Fernsehturm können ausgebucht sein – DDR Museum, Fernsehturm, Hohenschönhausen vorab buchen."
+   ],
+   [
+    "Tagesmix",
+    "Pro Tag höchstens EINE schwere Station (Plötzensee, Wannsee, Hohenschönhausen, Topographie) und dazu eine leichte (Hackesche Höfe, KaDeWe, Spaziergang)."
+   ],
+   [
+    "Mitnehmen",
+    "Personalausweis (Reichstag, Ehrenmal BW, Hohenschönhausen); warme Jacke, kleines Notizbuch; Handy-Ladekabel."
+   ]
+  ]
+ },
+ "stand": "06.10.2026"
+}
